@@ -9,49 +9,46 @@ english-file: organizing_committee
 
 h2. Organizing committee
 
-* Nadja Zupan Hajna,
-* Mitja Prelovšek,
-* Liljana Dravec,
-* Bruno Kostelić,
-* Slavko Brana,
-* Valerija Zakšek,
-* Franci Gabrovšek,
-* Petra Gostinčar,
-* Martin Knez,
-* Janja Kogovšek,
-* Andrej Kranjc,
-* Andrej Mihevc,
-* Janez Mulec,
-* Bojan Otoničar,
-* Matija Perne,
-* Metka Petrič,
-* Tanja Pipan,
-* Tadej Slabe,
-* Sonja Stamenković,
-* Stanka Šebela,
-* Janez Turk.
+* doc. dr. Andrej Mihevc,
+* doc. dr. Franci Gabrovšek
+* dipl. fiz. Matija Perne
+* doc. dr. Nadja Zupan Hajna
+* dr. Mitja Prelovšek
+* dipl. geog. Petra Gostinčar
+* doc. dr. Martin Knez
+* dr. Janja Kogovšek
+* dr. Janez Mulec
+* dr. Bojan Otoničar
+* doc. dr. Tanja Pipan
+* doc. dr. Metka Petrič 
+* doc. dr. Tadej Slabe 
+* doc. dr. Stanka Šebela
+* doc. dr. Nataša Viršek Ravbar
+
 
 h2. Programme committee
 
-* Nadja Zupan Hajna,
-* Mitja Prelovšek,
-* Metka Petrič,
-* Andrej Mihevc,
-* Aurel Perşoiu,
-* Pavel Bosák,
-* Petr Pruner,
-* Slavko Polak,
-* Trevor Shaw,
-* Andrzej Tyc,
-* Jasminko Mulaomerović,
-* Ahmad Afrasibian,
-* Jo De Waele,
-* Oana Moldovan,
-* Lukas Plan,
-* Philipp Häuselmann,
-* Olga Kadebskaya,
-* Aleksander Klimchouk,
-* Neven Bočić,
-* Arrigo A. Cigna,
-* Lukaá Vlček,
-* Oswaldo Bueno Amorim Filho.
+* dr. Philippe Audra
+* dr. Pavel Bosak
+* dr. Neven Bočić
+* dr. Arrigo A. Cigna
+* dr. Jo De Waele
+* dr. Wolfgang Dreybrodt
+* dr. Ian Fairchild
+* dr. Franci Gabrovšek 
+* dr. Mladen Garašić
+* Marjutka Hafner
+* dr. Philipp Häuselmann
+* dr. Olga Kadebskaya
+* akad. dr. Andrej Kranjc
+* dr. Aleksander Klimchouk
+* Vido Kregar
+* dr. Andrej Mihevc 
+* dr. Jasminko Mulaomerović
+* univ. dipl. fiz. Matija Perne 
+* dr. Lukas Plan
+* dr. Metka Petrič 
+* univ. dipl. biolog Slavko Polak
+* dr. Mitja Prelovšek 
+* dr. Trevor Shaw
+* dr. Nadja Zupan Hajna 
