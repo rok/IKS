@@ -1,0 +1,44 @@
+---
+layout: default
+title: Arhiv preteklih sol
+language: slovenian
+slovenian-file: arhiv
+english-file: archive
+---
+
+h2. Arhiv preteklih krasoslovnih šol
+
+<div id="arhiv">
+* **2011 - Varovanje podzemnega krasa**
+<a href="../datoteke/Booklet_2011-SLO.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (2,3 MB)</a>
+* **2010 - Dinarski kras**
+<a href="../datoteke/Booklet_2010.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (7,2 MB)</a>
+* **2009 - Jamska klima**
+<a href="../datoteke/Abstracts_2009.pdf">Povzetki prispevkov (0,9 MB)</a>
+<a href="../datoteke/GuideBook_2009.pdf">Vodnik (6,1 MB)</a>
+<a href="../datoteke/ShortPapers_2009.pdf">Kratki članki (8,2 MB)</a>
+* **2008 - Kraški sedimenti**
+<a href="../datoteke/Abstracts_2008.pdf">Povzetki (0,5 MB)</a>
+<a href="../datoteke/ShortPapers_2008.pdf">Kratki članki (4 MB)</a>
+* **2007 - Upravljanje z čezmejnimi kraškimi vodonosniki**
+<a href="../datoteke/GuideBook_2007.pdf">Vodnik (2,5 MB)</a>
+* **2006 - Trajnostno upravljanje z naravnimi in okoljskimi viri na krasu**
+<a href="../datoteke/Abstracts_2006.pdf">Povzetki prispevkov (0,5 MB)</a>
+<a href="../datoteke/GuideBook_2006.pdf">Vodnik (4,2 MB)</a>
+<a href="../datoteke/ShortPapers_2006.pdf">Kratki članki (13,5 MB)</a>
+* **2005 - Kras v različnih kamninah**
+<a href="../datoteke/GuideBook_2005.pdf">Vodnik (9,9 MB)</a>
+* **2004 - Datiranje kraških sedimentov**
+* **2003 - Kraška terminologija**
+* **2002 - Tipi krasa**
+* **2001 - Kontakti kras**
+<a href="../datoteke/Booklet_2001.pdf">Program, vodnik po ekskurzijah in povzetkih prispevkov (3,1 MB)</a>
+* **2000 - Udornice**
+* **1999 - Brezstrope jame**
+* **1998 - Alpski kras**
+* **1997 - Jamski sistemi**
+* **1996 - Brezna**
+* **1995 - Vrtače**
+* **1994 - Polja**
+* **1993 - Klasični kras**
+</div>

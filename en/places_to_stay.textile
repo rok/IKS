@@ -1,0 +1,74 @@
+---
+layout: default
+title: Places to stay
+language: english
+slovenian-file: moznosti_nastanitve
+english-file: places_to_stay
+---
+
+h2. Places to stay - Accomodation possibilities
+
+The participants (except invited) are asked to book their rooms in hotels or private rooms directly by themselves. For intormation and reservations you can contact the following addressses:
+
+!../slike/Namestitev.jpg!
+
+<b>(1) Hotel Kras****</b>
+Tržaška cesta 1
+SI-6230 Postojna
+Tel: +386 5 700 23 00
+Fax: +386 5 700 23 56
+E-mail: "booking@hotel-kras.si":mailto:booking@hotel-kras.si
+Web page: "http://www.hotel-kras.si":http://www.hotel-kras.si/index.php?lang=en
+
+<b>(2) Sport hotel & restaurant***</b>
+Kolodvorska ulica 1
+SI-6230 Postojna
+Tel: +386 5 720 22 44
+Fax: +386 5 720 22 40
+E-mail: "info@sport-hotel.si":mailto:info@sport-hotel.si
+Web page: "http://www.sport-hotel.si":http://www.sport-hotel.si/eng/
+
+<b>(3) Hotel epicenter***</b>
+Kazarje 10
+SI-6230 Postojna
+Tel: +386 5 700 22 00
+Fax: +386 5 700 22 44
+E-mail: "booking@epicenter-on.net":mailto:booking@epicenter-on.net
+Web page: "http://www.hotel-epicenter.si":http://www.hotel-epicenter.si/index.php/en.html
+
+<b>(4) Youth Hostel Proteus</b>
+Tržaška cesta 36
+SI-6230 Postojna
+Tel: +386 5 726 52 91
+Fax: +386 5 726 22 20
+E-mail: "recepcija.sgls@guest.arnes.si":mailto:recepcija.sgls@guest.arnes.si
+Web page: "http://www.hihostels.com/dba/hostel092539.en.htm?linkid=980018":http://www.hihostels.com/dba/hostel092539.en.htm?linkid=980018
+
+<b>Camping Pivka jama***</b>
+(5 km from Postojna; camp and bungalows)
+Veliki Otok 50
+SI-6230 Postojna
+Tel: +386 5 720 39 93
+Fax: +386 5 726 53 48
+E-mail: "avtokamp.pivka.jama@siol.net":mailto:avtokamp.pivka.jama@siol.net
+Web page: "http://www.venus-trade.si":http://www.venus-trade.si/eng/index.html
+
+<b>Speleocamp Laze</b>
+(15 km from Postojna; camp, apartments and group room)
+Laze 6b
+SI-1370 Logatec
+Tel: +386 1 754 47 60
+E-mail: "info@speleocamp.com":mailto:info@speleocamp.com
+Web page: "http://www.speleocamp.com":http://www.speleocamp.com
+
+<hr />
+
+Additional information about Postojna and private rooms:
+
+<b>(5) Kompas Postojna, turistična agencija, d.o.o.</b>
+Titov trg 2a
+SI-6230 Postojna
+Tel: +386 5 721 14 80
+Fax: +386 5 721 14 87
+E-mail: "info@kompas-postojna.si":mailto:info@kompas-postojna.si
+Web page: "http://www.kompas-postojna.si":http://www.kompas-postojna.si/html/lang.html#fragment-1

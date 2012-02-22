@@ -1,0 +1,26 @@
+---
+layout: default
+title: Places to eat
+language: english
+slovenian-file: moznosti_prehrane
+english-file: places_to_eat
+---
+
+h2. Places to eat
+
+!../slike/Prehrana.jpg!
+
+<b>(1) Minutka</b>
+Nice restaurant with pizza, pasta, excellent Balkan food and daily menu.
+
+<b>(2) Čuk</b>
+Restaurant in the Sport park with plenty of space. Although known as pizzeria, they also serve good pasta, Balkan food, traditional local and "global" food, incl. salad bar and daily menu.
+
+<b>(3) Bar Bor</b>
+For those of you who will wonder where is Jadran.... They serve their food in Bar Bor, 50 m down the street from the old location.
+
+<b>(4) Šport hotel</b>
+Also serves daily meals.
+
+<b>(5) Špajza</b>
+Fot those looking for fine ambient and food for moderate price.

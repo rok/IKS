@@ -1,0 +1,9 @@
+---
+layout: default
+title: Registration
+language: english
+slovenian-file: prijava_udelezenca
+english-file: registration
+---
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dDNJSFRCZlZjNVFMeU1rTlU5YVhDTXc6MQ" width="760" height="1435" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

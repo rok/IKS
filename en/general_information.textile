@@ -1,0 +1,23 @@
+---
+layout: default
+title: General information
+language: english
+slovenian-file: informacije
+english-file: general_information
+---
+
+h2. General information
+
+Karst Research Institute at ZRC SAZU 
+
+Titov trg 2
+6230 Postojna
+Slovenija, EU 
+
+<b>Telephone:</b> +386 5 700 19 00
+<b>Fax:</b> +386 5 700 19 99
+
+<b>E-mail:</b> "izrk@zrc-sazu.si":mailto:izrk@zrc-sazu.si
+<b>Web page:</b> "http://kras.zrc-sazu.si":http://kras.zrc-sazu.si
+
+!../slike/KRI_building.jpg!

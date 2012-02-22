@@ -1,0 +1,11 @@
+---
+layout: default
+title: Namen in cilji
+language: english
+slovenian-file: namen_in_cilji
+english-file: topic_and_goals
+---
+
+h2. Topic and goals
+
+20<sup>th</sup> International Karstological School 'Classical Karst' will be dedicated to ...

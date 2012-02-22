@@ -1,0 +1,58 @@
+---
+layout: default
+title: Organizacijski odbor
+language: slovenian
+slovenian-file: organizacijski_odbor
+english-file: organizing_committee
+---
+!>../slike/sodelavci.jpg!
+
+h2. Organizacijski odbor
+
+* Nadja Zupan Hajna,
+* Mitja Prelovšek,
+* Liljana Dravec,
+* Bruno Kostelić,
+* Slavko Brana,
+* Valerija Zakšek,
+* Franci Gabrovšek,
+* Petra Gostinčar,
+* Martin Knez,
+* Janja Kogovšek,
+* Andrej Kranjc,
+* Andrej Mihevc,
+* Janez Mulec,
+* Bojan Otoničar,
+* Matija Perne,
+* Metka Petrič,
+* Tanja Pipan,
+* Tadej Slabe,
+* Sonja Stamenković,
+* Stanka Šebela,
+* Janez Turk.
+
+
+h2. Programski odbor
+
+* Nadja Zupan Hajna,
+* Mitja Prelovšek,
+* Metka Petrič,
+* Andrej Mihevc,
+* Aurel Perşoiu,
+* Pavel Bosák,
+* Petr Pruner,
+* Slavko Polak,
+* Trevor Shaw,
+* Andrzej Tyc,
+* Jasminko Mulaomerović,
+* Ahmad Afrasibian,
+* Jo De Waele,
+* Oana Moldovan,
+* Lukas Plan,
+* Philipp Häuselmann,
+* Olga Kadebskaya,
+* Aleksander Klimchouk,
+* Neven Bočić,
+* Arrigo A. Cigna,
+* Lukaá Vlček,
+* Oswaldo Bueno Amorim Filho.

@@ -1,0 +1,14 @@
+---
+layout: default
+title: Location of International karstological school
+language: english
+slovenian-file: lokacija_dogodka
+english-file: location_of_venue
+---
+
+h2. Location of International Karstological school
+
+!../slike/Lokacija.jpg!
+
+<b>(1) Karst Research Institute ZRC SAZU</b>, Titov trg 2, 6230 Postojna
+<b>(2) Cultural Center of Postojna </b>, Prešernova ulica 1, 6230 Postojna

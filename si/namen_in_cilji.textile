@@ -1,0 +1,11 @@
+---
+layout: default
+title: Namen in cilji
+language: slovenian
+slovenian-file: namen_in_cilji
+english-file: topic_and_goals
+---
+
+h2. Namen in cilji
+
+20. Mednarodna krasoslovna šola "Klasični kras" bo posvečena ...

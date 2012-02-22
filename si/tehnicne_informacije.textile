@@ -1,0 +1,13 @@
+---
+layout: default
+title: Tehnicne informacije
+language: slovenian
+slovenian-file: tehnicne_informacije
+english-file: technical_information
+---
+
+h2. Tehnične informacije
+
+Šola bo potekala v angleškem jeziku. Avtorje predavanj in plakatov prosimo, da povzetke svojih prispevkov v angleščini pošljejo do 15. maja 2011. Prispevek se odda preko "elektronskega obrazca":prijava_udelezenca.html. Avtorji lahko predlagajo način predstavitve, o dokončni odločitvi o vrsti predstavitve (predavanje ali plakat) pa odloča organizator dogodka. Izbrani prispevki imajo možnost biti objavljeni v reviji "Acta carsologica":http://carsologica.zrc-sazu.si/.
+
+Udeležence prosimo, da se na krasoslovno šolo prijavijo preko "spletnega obrazca":prijava_udelezenca.html najkasneje do 15. maja 2011. Po tem roku prijav ne bomo več sprejemali! Konec maja 2011 bomo vsem prijavljenim poslali drugo obvestilo z okvirnim programom šole. 
