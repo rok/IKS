@@ -8,7 +8,7 @@ english-file: places_to_eat
 
 h2. Možnosti prehrane
 
-!../slike/Prehrana.jpg!
+!../slike/food.jpg!
 
 <b>(1) Minutka</b>
 Prijetna restavracija kjer strežejo pice, testenine, dobro hrano in dnevne menije.

@@ -8,7 +8,7 @@ english-file: places_to_eat
 
 h2. Places to eat
 
-!../slike/Prehrana.jpg!
+!../slike/food.jpg!
 
 <b>(1) Minutka</b>
 Nice restaurant with pizza, pasta, excellent food and daily menu.
