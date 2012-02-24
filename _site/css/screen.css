@@ -25,15 +25,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "adobe-garamond-pro";
   font-size: 100%;
 }
- 
-h1 {
-  text-align:center; 
-  padding:5px;
-  margin-bottom: 1em; 
-  border-bottom:1px solid #bbbbbb; 
-  font-size: 200%;
-  line-height: 2em;
-}
 
 h2 {
   padding:10px 1px 4px 1px;
@@ -130,7 +121,7 @@ table {
   width:800px; 
   text-align: justify;
   line-height: 1.3em;
-  margin: 1em auto 0 auto;
+  margin: 0.7em auto 0 auto;
   background-color:white; 
   text-align:left;
 }
@@ -141,23 +132,28 @@ table {
 }
 
 .header{
-  padding:0px 60px 20px 0px;
-  border-bottom:1px solid #bbbbbb;
-  text-align:left;
+  padding-bottom:4px;
 }
 
-div#opozorilo {
-  font-family: "droid-sans";
-  font-size:200%;
+.title {
+  font-family: "adobe-garamond-pro";
+  border-top:1px solid #bbbbbb;
+  border-bottom:1px solid #bbbbbb; 
+  margin-bottom: 0.8em;
   text-align:center;
-  padding:10px;
-  margin-top: -0.9em; 
-  margin-bottom: 1em; 
-  background-color:#dddddd;
-  color:red;
 }
 
-  .site .meta {
+.title h1 {
+  line-height: 2em;
+  font-size: 200%;
+}
+
+div#subtitle {
+  font-size:150%;
+  margin-bottom: 0.8em;
+}
+
+.site .meta {
     color: #aaa;
   }
  
@@ -191,14 +187,35 @@ div#opozorilo {
   padding-bottom: 20px;
 }
 
-div#platnica {
+div.platnica {
+  padding:1.8em;
+  background-color:black;
+  width:67%;
+  font-family: "droid-sans", sans-serif;
+  font-weight:bold;
   margin-left:auto;
   margin-right:auto;
-  width:70%;
+  line-height: 1.9em;
+  font-size:1.3em;
+}
+div.platnica a {
+  color:white;
+  text-decoration: underline;
+}
+div.platnica a:hover {
+  color:white;
+  text-decoration: underline;
+}
+div.platnica a:visited {
+  color:white;
+  text-decoration: underline;
+}
+
+.bank {
+  background-color:#ddd;
 }
 
 ul {
-  margin:10px;
   padding-left: 10px;
 }
 
@@ -206,56 +223,14 @@ div#arhiv li {
   padding:4px 0px;
 }
 
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
- 
-#post {
- 
+table {
+border-collapse:collapse;
+width:100%;
 }
- 
-  /* standard */
- 
-  #post pre {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    padding: 0 .4em;
-  }
- 
-  #post ul,
-  #post ol {
-    margin-left: 1.25em;
-  }
- 
-  #post code {
-    border: 1px solid #ddd;
-    background-color: #eef;
-    font-size: 95%;
-    padding: 0 .2em;
-  }
- 
-    #post pre code {
-      border: none;
-    }
- 
-  /* terminal */
- 
-  #post pre.terminal {
-    border: 1px solid black;
-    background-color: #333;
-    color: white;
-  }
- 
-  #post pre.terminal code {
-    background-color: #333;
-  }
- 
-#related {
-  margin-top: 2em;
+table, th, td {
+padding:10px;
+border: 1px solid black;
 }
- 
-  #related h2 {
-    margin-bottom: 1em;
-  }
+th {
+background-color:#bbb;
+}

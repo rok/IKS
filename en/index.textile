@@ -1,0 +1,11 @@
+---
+layout: default
+title: Main page
+language: english
+slovenian-file: index
+english-file: index
+---
+ 
+div(platnica). 
+  !../slike/platnica.jpg!
+  "1st Circular":1st-circular.html

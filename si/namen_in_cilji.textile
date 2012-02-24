@@ -8,5 +8,5 @@ english-file: topic_and_goals
 
 h2. Namen in cilji
 
-Mednarodno krasoslovno šolo "Klasični Kras" organiziramo že od leta 1993.  Šola pokriva pokriva različna področja raziskovanja krasa. Osnovni namen Šole je predstavitev trenutnega razumevanja krasa v okviru izbranega področja, vzpodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju Klasičnega krasa v Sloveniji. 
+Mednarodna krasoslovna šola »Klasični Kras«, organiziramo že od leta 1993.  Šola pokriva pokriva različna področja raziskovanja krasa.  Osnovna namen Šole je predstavitev trenutnega razumevanja krasa v okviru izbrane teme, vzpodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju Klasičnega krasa v Sloveniji. 
 V zadnjih dveh desetletjih so raziskovalci krasa prispevali številna nova odkritja na področjih, ki so jih obravnavale pretekle šole. Zato je letošnja, 20. MKŠ priložnost, da pregledamo sedanje razumevanje tipičnih kraških oblik in procesov, da poudarimo napredek v raziskovanju v zadnjih dveh desetletjih in da opozorimo na  izzive in perspektive za naslednjo generacijo raziskovalcev krasa.
