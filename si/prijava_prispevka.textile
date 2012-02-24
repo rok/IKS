@@ -1,9 +1,0 @@
----
-layout: default
-title: Prijava prispevka
-language: slovenian
-slovenian-file: prijava_prispevka
-english-file: submission_of_papers
----
-
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGZvYnBhNE1pdkdycHRCLUZ1THZwNEE6MQ" width="760" height="961" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
