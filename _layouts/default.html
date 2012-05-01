@@ -49,61 +49,46 @@
 			<div id="subtitle">Karst Forms and Processes</div>{% endif %}
 			</a>
 		</div>
-		
+
+		<div class="column" >
 		{% if page.language == "slovenian" %}
-			<div class="column" class="besedilni-font">
-				<ul>
+				<ul class="column-frame">
 					<li><a href="/si/">Naslovna stran</a></li>
 					<li><a href="/si/namen_in_cilji.html">Namen in cilj</a></li>
 					<li><a href="/si/program.html">Program</a></li>
 					<li><a href="/si/organizacijski_odbor.html">Organizacijski odbor</a></li>
 					<li><a href="/si/tehnicne_informacije.html">Tehnične informacije</a></li>
 					<hr />
-
 					<li><a href="/si/lokacija_dogodka.html">Lokacija dogodka</a></li>
 					<li><a href="/si/moznosti_nastanitve.html">Možnosti nastanitve</a></li>
 					<li><a href="/si/moznosti_prehrane.html">Možnosti prehrane</a></li><hr />
-
 					<li><a href="/si/informacije.html">Splošne informacije</a></li>
-
-					<b>
 					<li><a href="/si/prijava_udelezenca.html">Prijava udeleženca</a></li>
-					</b>
-				</ul>
-		
-				<ul>
+					<hr />
 					<li><a href="/si/arhiv.html">Arhiv preteklih šol</a></li>
 				</ul>
-			</div>
+				<a href="http://kras.zrc-sazu.si/" target="_blank"><img src="../slike/IZRK.jpg" width="150px" id="proteus" /></a>
 		{% endif %}
 	
 		{% if page.language == "english" %}
-			<div class="column" >
-				<ul>
+				<ul class="column-frame">
 					<li><a href="/en/">Main page</a></li>
 					<li><a href="/en/topic_and_goals.html">Topic and goal</a></li>
 					<li><a href="/en/programme.html">Programme</a></li>
 					<li><a href="/en/technical_information.html">Technical information</a></li>
 					<li><a href="/en/organizing_committee.html">Organizing committee</a></li>
 					<hr />
-
 					<li><a href="/en/location_of_venue.html">Location of venue</a></li>
 					<li><a href="/en/places_to_stay.html">Places to stay</a></li>
 					<li><a href="/en/places_to_eat.html">Places to eat</a></li>
-					<hr />
-
 					<li><a href="/en/general_information.html">General information</a></li>
-
-					<b>
 					<li><a href="/en/registration.html">Registration</a></li>
-					</b>
-				</ul>
-		
-				<ul>
+					<hr />
 					<li><a href="/en/archive.html">Archive of past schools</a></li>
 				</ul>
-		</div>
+				<a href="http://kras.zrc-sazu.si/en" target="_blank"><img src="../slike/IZRK-en.jpg" width="150px" id="proteus" /></a>
 		{% endif %}
+		</div>
 		
 		<div class="content">
 			{{ content }}

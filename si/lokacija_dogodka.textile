@@ -14,3 +14,4 @@ h2. Lokacija Mednarodne krasoslovne šole
 
 !../slike/postojna-center.jpg!
 <b>(1) Inštitut za raziskovanje krasa ZRC SAZU</b>, Titov trg 2, 6230 Postojna
+<b>(2) Kulturni dom Postojna</b>, Gregorčičev drevored 2, 6230 Postojna 
