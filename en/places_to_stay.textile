@@ -10,7 +10,7 @@ h2. Places to stay - Accomodation possibilities
 
 The participants (except invited) are asked to book their rooms in hotels or private rooms directly by themselves. For intormation and reservations you can contact the following addressses:
 
-!../slike/namestitev.jpg!
+!../slike/Namestitev.jpg!
 
 <b>(1) Hotel Kras****</b>
 Tržaška cesta 1

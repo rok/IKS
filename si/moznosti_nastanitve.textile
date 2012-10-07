@@ -10,7 +10,7 @@ h2. Možnosti nastanitve
 
 Udeležence (razen vabljenih) se naproša, da si sami rezervirajo sobe v hotelih oziroma v zasebnih prenočiščih. Pri iskanju si lahko pomagate z naslednjimi informacijami:
 
-!../slike/namestitev.jpg!
+!../slike/Namestitev.jpg!
 
 <b>(1) Hotel Kras****</b>
 Tržaška cesta 1
@@ -53,7 +53,7 @@ E-mail: "info@postojnska-jama.si":mailto:info@postojnska-jama.si
 Web page: "http://www.postojnska-jama.si/":http://www.postojnska-jama.si/
 
 <b>Camping Pivka jama***</b>
-(5 km iz Postojne; kamp in bungalovi)
+(5 km from Postojna; kamp in bungalovi)
 Veliki Otok 50
 SI-6230 Postojna
 Tel: 05/ 720 39 93
@@ -62,7 +62,7 @@ E-naslov: "avtokamp.pivka.jama@siol.net":mailto:avtokamp.pivka.jama@siol.net
 Spletna stran: "http://www.venus-trade.si":http://www.venus-trade.si/slo/index.html
 
 <b>Speleocamp Laze</b>
-(15 km iz Postojne; kamp, apartmaji in skupna soba)
+(15 km from Postojna; kamp, apartmaji in skupna soba)
 Laze 6b
 SI-1370 Logatec
 Tel: 01/ 754 47 60

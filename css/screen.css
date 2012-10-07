@@ -73,10 +73,6 @@ table {
   font-size: inherit;
   font: 100%;
 }
-
-img { 
-    border: none; 
-}
  
 /*****************************************************************************/
 /*
@@ -85,30 +81,34 @@ img {
 /*****************************************************************************/
 
 .column {
-  float:left; 
-}
-
-.column-frame {
-list-style-type: none; 
   font-family: "droid-sans";
-  border:1px solid #bbbbbb; 
+  float:left; 
   width:150px; 
-  padding: 2px 10px 2px 10px;
   font-size:14px; 
+  padding:2px 10px 2px 10px; 
+  margin-right:20px;
+  border:1px solid #bbbbbb; 
 }
 
-.column-frame a, a:hover, a:visited {
-  text-decoration: underline;
+.column a {
+  color:black;
+}
+.column a:hover {
+  color:black;
+}
+.column a:visited {
+  color:black;
 }
 
-.column-frame li {
+.column ul {
+  list-style-type: none; 
+  padding:0px; 
+  margin:0px;
+  list-style-type: none; padding:0px; margin:0px;
+}
+
+.column li {
   padding:3px 0px;
-}
-
-img#proteus {
-  float:left;
-  width:150px; 
-  padding-top:2em;
 }
 
 /*****************************************************************************/
@@ -188,6 +188,8 @@ div#subtitle {
 }
 
 div.platnica {
+  padding:1.8em;
+  background-color:black;
   width:67%;
   font-family: "droid-sans", sans-serif;
   font-weight:bold;
@@ -197,12 +199,15 @@ div.platnica {
   font-size:1.3em;
 }
 div.platnica a {
+  color:white;
   text-decoration: underline;
 }
 div.platnica a:hover {
+  color:white;
   text-decoration: underline;
 }
 div.platnica a:visited {
+  color:white;
   text-decoration: underline;
 }
 
