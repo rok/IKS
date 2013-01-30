@@ -9,6 +9,8 @@ english-file: archive
 h2. Arhiv preteklih krasoslovnih šol
 
 <div id="arhiv">
+* **2012 - Kraške oblike in procesi**
+<a href="../datoteke/Booklet_2012-SLO.pdf">(Prihaja) Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (2,3 MB)</a>
 * **2011 - Varovanje podzemnega krasa**
 <a href="../datoteke/Booklet_2011-SLO.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (2,3 MB)</a>
 * **2010 - Dinarski kras**

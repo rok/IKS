@@ -8,47 +8,33 @@ english-file: organizing_committee
 !>../slike/sodelavci.jpg!
 
 h2. Organizacijski odbor
-
-* doc. dr. Andrej Mihevc,
-* doc. dr. Franci Gabrovšek
-* dipl. fiz. Matija Perne
-* doc. dr. Nadja Zupan Hajna
+* dr. Bojan Otoničar
+* dr. Franci Gabrovšek
+* dr. Andrej Mihevc,
+* dr. Nadja Zupan Hajna
 * dr. Mitja Prelovšek
 * dipl. geog. Petra Gostinčar
-* doc. dr. Martin Knez
+* dr. Martin Knez
 * dr. Janja Kogovšek
 * dr. Janez Mulec
-* dr. Bojan Otoničar
-* doc. dr. Tanja Pipan
-* doc. dr. Metka Petrič 
-* doc. dr. Tadej Slabe 
-* doc. dr. Stanka Šebela
-* doc. dr. Nataša Viršek Ravbar
-
+* dr. Tanja Pipan
+* dr. Metka Petrič
+* dr. Tadej Slabe
+* dr. Stanka Šebela
+* dr. Nataša Viršek Ravbar
 
 h2. Programski odbor
 
 * dr. Philippe Audra
 * dr. Pavel Bosak
-* dr. Neven Bočić
-* dr. Arrigo A. Cigna
-* dr. Jo De Waele
-* dr. Wolfgang Dreybrodt
-* dr. Ian Fairchild
-* dr. Franci Gabrovšek 
-* dr. Mladen Garašić
+* dr. Yuri Dublyansky
+* dr. Anita Eröss
+* dr. Franci Gabrovšek
 * Marjutka Hafner
-* dr. Philipp Häuselmann
-* dr. Olga Kadebskaya
 * akad. dr. Andrej Kranjc
-* dr. Aleksander Klimchouk
-* Vido Kregar
-* dr. Andrej Mihevc 
-* dr. Jasminko Mulaomerović
-* univ. dipl. fiz. Matija Perne 
-* dr. Lukas Plan
-* dr. Metka Petrič 
-* univ. dipl. biolog Slavko Polak
-* dr. Mitja Prelovšek 
-* dr. Trevor Shaw
-* dr. Nadja Zupan Hajna 
+* dr. Marco Menichetti
+* dr. Bojan Otoničar
+* dr. Matija Perne
+* dr. Tadej Slabe
+* dr. Andrzej Tyc
+* dr. Nadja Zupan Hajna

@@ -9,6 +9,8 @@ english-file: archive
 h2. Archive of the past karstological schools
 
 <div id="arhiv">
+* **2012 - Karst Forms and Processes**
+<a href="../datoteke/Booklet_2012-SLO.pdf">(Coming) Booklet (General information, programme, field trips, abstracts (2,3 MB)</a>
 * **2011 - Karst Underground Protection**
 <a href="../datoteke/Booklet_2011-ENG.pdf">Booklet (General information, programme, field trips, abstracts (2,3 MB)</a>
 * **2010 - Dinaric Karst**

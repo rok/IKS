@@ -8,18 +8,25 @@ english-file: 1st-circular
 
 _**1. Obvestilo**_
 
-p=. **20. Mednarodna krasoslovna šola  "Klasični kras"**
-*Kraške oblike in procesi*
-Postojna, 18. do 23. junij 2012
+p=. **21. Mednarodna krasoslovna šola  "Klasični kras"**
+*Hipogena speleogeneza (med teorijo in resničnostjo…)*
+Postojna, 10. do 14. junij 2013
  
 
 organizator:
 
 **INŠTITUT ZA RAZISKOVANJE KRASA ZRC SAZU**
  
-Mednarodno krasoslovno šolo "Klasični Kras", organiziramo že od leta 1993.  Šola pokriva različna področja raziskovanja krasa.  Osnovna namen srečanja je predstavitev trenutnega razumevanja krasa v okviru izbrane teme šole, vzpodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju Klasičnega krasa v Sloveniji.
-V zadnjih dveh desetletjih so raziskovalci krasa prispevali številna nova odkritja na področjih, ki so jih obravnavale pretekle šole. Zato je letošnja, 20. MKŠ priložnost, da pregledamo sedanje razumevanje različnih kraških oblik in procesov, da poudarimo napredek v raziskovanju v zadnjih dveh desetletjih in da opozorimo na  izzive in perspektive za naslednjo generacijo raziskovalcev krasa.
- 
+Mednarodno krasoslovno šolo »Klasični Kras« organiziramo že od leta 1993. Šola pokriva različna področja raziskovanja krasa. Osnovna namen Šole je predstavitev trenutnega razumevanja krasa v okviru izbrane teme, spodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju Klasičnega krasa v Sloveniji. 
+V zadnjem desetletju je bilo proučevanje procesov hipogene speleogeneze med raziskovalci še posebej priljubljeno. Veliko jam, ki so jim predhodno pripisovali »normalen« freatičen nastanek je bilo ponovno raziskanih, njihov nastanek pa v veliki meri razložen s hipogenimi procesi. Nekatere temeljne publikacije na to temo so sprožile dvome in razprave, kajti razporeditve jamskih rovov in stenske jamske oblike značilne za hipogene jame lahko nastanejo tudi pod drugačnimi pogoji. Zato je namen letošnje krasoslovne šole predstaviti osnovne hidrogeološke in kemijske principe in procese ter geološke pogoje hipogene speleogeneze. Posebno pozornost bomo posvetili geometriji jamskih rovov in jamskih stenskih oblik, ki so pogosto interpretirane kot hipogene, vendar pa se lahko tvorijo tudi drugače, npr. v pogojih meteorne poplavne vode ali z raztapljanjem na stiku s sedimentom.
+
+**Udeleženci bodo dobili odgovore na naslednja vprašanja:**
+* Kaj je hipogena speleogeneza
+* Kateri so značilni in potrebni geološki pogoji za hipogeno speleogenezo
+* Kateri fizikalno-kemijski procesi so pomembni za hipogeno speleogenezo
+* Katere oblike so značilne izključno za hipogeno speleogenezo
+* Kako ločiti hipogene od epigenih jam
+
  
 **Delo šole bo potekalo v obliki**
 * Uvodnih vabljenih predavanj iz različnih področij krasoslovja
@@ -28,36 +35,38 @@ V zadnjih dveh desetletjih so raziskovalci krasa prispevali številna nova odkri
 * Popoldanske in celodnevne ekskurzije
 
 **Tema letošnje šole je**
-* Procesi in oblike na kraškem površju in v jamah  v različnih okoljih
-* Vloga raztapljanja, prenosa sedimentov, tektonike, klime in življenja v morfogenezi krasa
-* Razvoj krasa v različnih regijah
-* Človeški vplivi na kras
+* Hipogena spelogeneza (hidrogeologija, kemija, geologija in oblike)
+* Podobnosti in razlike med hipogenimi in epigenimi jamami
+* Hipogena speleogeneza v evaporitih
+* Speleogeneza v arteških vodonosnikih
+* Termalne in hidrotermalne jame
+* Minerali povezani s hipogeno speleogenezo
  
+
 **Šola je namenjena:**
 
 Starejšim in mlajšim raziskovalcem krasa, študentom, upravljavcem kraških resursov in vsem, ki jih zanima kras kot naravni pojav.
  
- **Obris programa**
+ **Program**
 
 |_. Dan |_. Dopoldne |_. Popoldne |_. Zvečer |
-| ponedeljek, 18. junij | predavanja | predstavitev posterjev | večerna ekskurzija |
-| torek, 19. junij | predavanja | ekskurzija | |
-| sreda, 20. junij | predavanja | ekskurzija | |
-| četrtek, 21. junij |\2.  celodnevna tematska ekskurzija | Veliki sprejem |
-| petek, 22. junij |\2. celodnevna ekskurzija Klasični kras | |
-| sobota, 23. junij |\2. odhod, možnost dodatne ekskurzije | |
+| ponedeljek, 10. junij | predavanja | predstavitev posterjev | spoznavni večer |
+| torek, 11. junij | predavanja | ekskurzija | |
+| sreda, 12. junij | predavanja | ekskurzija | |
+| četrtek, 13. junij |\2.  celodnevna tematska ekskurzija | Veliki sprejem |
+| petek, 14. junij |\3. odhod, možnost ekskurzije “Klasični kras” |
 
 
 **REGISTRACIJA**
 Registracija se bo pričela 15. februarja in se bo zaprla 30. aprila.  Registracija bo mogoča samo preko spleta, navodila za plačilo pa bodo na spletni strani šole. Kotizacija mora biti poravnana ob registraciji.  Spletna povezava za registracijo in za druge informacije bo aktivna na domači strani Inštituta  na "http://izrk.zrc-sazu.si":http://izrk.zrc-sazu.si  po 15. februarju..
  
-Kotizacija je **100 EUR**. Vključuje gradivo za šolo in ekskurzije, osvežilo med odmori in med pri ekskurzijami in udeležbo na večernem sprejemu. Kotizacija za študente je **20 EUR**.
-Uradna jezika šole sta angleščina in slovenščina. Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo način predstavitve, vendar bo odločitev (ustna predstavitev ali poster) sprejel organizator šole. Izbrani prispevki bodo lahko objavljeni v Acta Carsologica.
+Kotizacija je **125 EUR**. Vključuje gradivo za šolo in ekskurzije, osvežilo med odmori in med pri ekskurzijami in udeležbo na večernem sprejemu. Kotizacija za študente je **25 EUR**.
+Uradna jezika šole sta angleščina in slovenščina. Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo način predstavitve, vendar bo odločitev (ustna predstavitev ali poster) sprejel organizator šole. Izbrani prispevki bodo lahko objavljeni v reviji Acta Carsologica.
  
-Drugo obvestilo, ki bo  vsebovalo podrobnejši program šole bo objavljeno 10. maja 2012.
+Drugo obvestilo, ki bo vsebovalo podrobnejši program šole bo objavljeno 10. maja 2013.
  
 **Šolo podpirajo:**
-ARRSO, Slovenska Nacionalna komisija za UNESCO, Znanstvenoraziskovalni center SAZU, Občina Postojna, Postojnska jama d.d. in Park Škocjanske jame.
+Slovenska Nacionalna komisija za UNESCO, Znanstvenoraziskovalni center SAZU, Občina Postojna, Postojnska jama d.d. 
 
  
 **Vse informacije so dostopne na:**
@@ -71,5 +80,5 @@ E-mail: "izrk@zrc-sazu.si":mailto:izrk@zrc-sazu.si
 Web: "http://izrk.zrc-sazu.si":http://izrk.zrc-sazu.si
  
 **Kontaktni osebi:**
-Dr. Andrej Mihevc, "mihevc@zrc-sazu.si":mailto:mihevc@zrc-sazu.si
+Dr. Bojan Otoničar, "otonicar@zrc-sazu.si":mailto:otonicar@zrc-sazu.si
 Dr. Franci Gabrovšek, "gabrovsek@zrc-sazu.si":mailto:gabrovsek@zrc-sazu.si

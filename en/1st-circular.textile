@@ -9,16 +9,24 @@ english-file: 1st-circular
 _**1st Circular**_
 
 
-p=. **20TH INTERNATIONAL KARSTOLOGICAL SCHOOL "CLASSICAL KARST"**
-*KARST FORMS AND PROCESSES*
-Postojna, June 18th to 23rd 2012
+p=. **21 ^st^ INTERNATIONAL KARSTOLOGICAL SCHOOL "CLASSICAL KARST"**
+*HYPOGENE SPELEOGENSIS (BETWEEN THEORY AND REALITY…)*
+Postojna, June 10th to 14th 2013
 
 organised by:
 
 **KARST RESEARCH INSTITUTE ZRC SAZU**
 
 Since 1993, International Karstological Schools have been organised, covering many aspects of karst research. The basic idea of the School has been to present the state of the art in selected topics and promote discussion between participants via set of lectures, poster sessions and related field trips to the area of Slovene Classical karst. 
-Research in the last two decades has contributed new findings in many topics of these past schools. Therefore, the 20 ^th^ IKS is an opportunity to review our current understanding of typical karst forms and processes, stress the research advances in the last two decades and define challenges and perspectives for the next generation.
+In the last decade, hypogene speleologenetic processes have attracted attention of speleological community. Many previously epigenic caves have been reinterpreted as hypogene. Some basic publications on the topic have triggered doubts and debates because similar cave patterns and wall rock features considered as hypogene can be formed also under other conditions. Therefore, the aim of the 21^st^ IKS is to present basic hydrogeological and chemical principles and processes of hypogene speleogenesis as well as geological conditions leading to it. Special attention will be paid to the geometry of cave passages and wall rock features  which are often interpreted as hypogene, but could have as well formed otherwise, such as in meteoric flood-water conditions or by dissolution in contact with sediment.
+
+**The participants will get answers to the following questions:**
+* what is the hypogene speleogenesis,
+* which are typical and necessary geological conditions for the hypogene speleogenesis,
+* which physicochemical processes are important for the  hypogene speleogenesis
+* which forms are characteristic only for the hypogene speleogenesis 
+* how to distinguish hypogenetic and epigenetic caves
+
 
 **The work will include**
 * Invited keynote lectures covering wide range of topic
@@ -27,10 +35,13 @@ Research in the last two decades has contributed new findings in many topics of 
 * fieldwork
 
 **The topics will cover**
-* processes and forms on karst surface and caves in different setting
-* role of dissolution, sediment tranport, tectonics, climate and life in karst morphogenesis
-* regional karst development
-* man's impact on karst
+* hypogene speleogenesis (hydrogeology, chemistry, geology and forms)
+* similarities and distinction between hypogenic and epigenic caves
+* hypogene speleogensis in gypsum
+* speogenesis in artesian basins
+* thermal and hydrothermal caves
+* minerals related to hypogene speleogenesis
+
 
 **Who should be interesting in participating:**
 
@@ -39,24 +50,23 @@ Senior and junior karst researchers, students, managers of karst resources and o
 **Program outline**
 
 |_. Day |_. Morning |_. Afternoon |_. Evening |
-| Monday, June 18th | Sessions | Poster session | Evening field trip |
-| Tuesday, June 19th | Sessions | Field trip | |
-| Wednesday, June 20th | Sessions | Field trip | |
-| Thursday, June 21st |\2. Whole day thematic excursion | Great reception |
-| Friday, June 22nd |\2. Whole day excursion "Classical karst" | |
-| Saturday, June 23rd |\2. Departure, optional field trip | |
+| Monday, June 10^th^ | Sessions | Poster session | Ice-breaker |
+| Tuesday, June 11^th^ | Sessions | Field trip | |
+| Wednesday, June 12^th^ | Sessions | Field trip | |
+| Thursday, June 13^th^ |\2. Whole day excursion | Great reception |
+| Friday, June 14^th^ |\2. Departure, optional field trip | |
  
 **REGISTRATION**
 
-The registration will be opened on February 15 ^th^ and closed on April 30 ^th^. Registration will be only online, payment instructions will be given on the web site. Registration fee must be covered at registration. Link to registration and other information will be active at the Institute's web site "http://izrk.zrc-sazu.si/en":http://izrk.zrc-sazu.si/en starting February 15 ^th^.
+The registration will be opened on February 15 ^th^ and closed on April 30 ^th^. Registration will be only online, payment instructions will be given on the web site. Registration fee must be covered at registration. Link to registration and other information will be active at the Institute’s web site "http://izrk.zrc-sazu.si/en":http://izrk.zrc-sazu.si/en starting February 15 ^th^.
 
-The registration fee is **100 EUR**. It includes conference materials, refreshments during coffee breaks, participation at gala reception and at all excursions. The fee for the undergraduate students is **20 EUR**.
-The official languages of the event are English and Slovene. The abstracts must be submitted in English along with the registration. The participant's preferred mode of presentation (i.e. poster/oral) will be considered by the organiser. Selected papers will be published in Acta Carsologica.
+The registration fee is **125 EUR**. It includes conference materials, refreshments during coffee breaks, participation at gala reception and at all excursions. The fee for the undergraduate students is **25 EUR**.
+The official language of the event is English and Slovene. The abstracts must be submitted in English along with the registration. The participant's preferred mode of presentation (i.e. poster/oral) will be considered by the organiser.  Selected papers will be published in Acta Carsologica.
 
 The Second Circular including the detailed programme of the School will be out by May 10 ^th^, 2012.
 
 **The School is supported by:*
-Slovenian Research Agency, Slovenian National Commission for UNESCO, Scientific Research Centre SAZU, Commune of Postojna, Postojnska jama d.d. and Škocjan Caves Park.
+Slovenian National Commission for UNESCO, Scientific Research Centre SAZU, Commune of Postojna, Postojnska jama d.d.
  
 **All the information are available at:**
 KARST RESEARCH INSTITUTE ZRC SAZU
@@ -68,5 +78,5 @@ E-mail: "izrk@zrc-sazu.si":mailto:izrk@zrc-sazu.si
 Web: "http://izrk.zrc-sazu.si/en":http://izrk.zrc-sazu.si/en
 
 **Principal contacts:**
-Dr. Andrej Mihevc, "mihevc@zrc-sazu.si":mailto:mihevc@zrc-sazu.si
+Dr. Bojan Otoničar, "otonicar@zrc-sazu.si":mailto:otonicar@zrc-sazu.si
 Dr. Franci Gabrovšek, "gabrovsek@zrc-sazu.si":mailto:gabrovsek@zrc-sazu.si

@@ -8,10 +8,9 @@ english-file: programme
 
 h2. Program
 
-|_.  Dan |_.  Dopoldne |_.  Popoldne |_.  Zvečer |
-| ponedeljek, 18. junij | predavanja | predstavitev posterjev | ekskurzija |
-| torek, 19. junij | predavanja | ekskurzija | |
-| sreda, 20. junij | predavanja | ekskurzija | |
-| četrtek, 21. junij |\2. celodnevna tematska ekskurzija | veliki sprejem |
-| petek, 22. junij |\2. celodnevna ekskurzija "Klasični kras" | |
-| sobota, 23. junij |\2. odhod, možnost dodatne ekskurzije | |
+|_. Dan |_. Dopoldne |_. Popoldne |_. Zvečer |
+| ponedeljek, 10. junij | predavanja | predstavitev posterjev | spoznavni večer |
+| torek, 11. junij | predavanja | ekskurzija | |
+| sreda, 12. junij | predavanja | ekskurzija | |
+| četrtek, 13. junij |\2.  celodnevna tematska ekskurzija | Veliki sprejem |
+| petek, 14. junij |\3. odhod, možnost ekskurzije “Klasični kras” |

@@ -9,9 +9,8 @@ english-file: programme
 h2. Program outline
 
 |_. Day |_. Morning |_. Afternoon |_. Evening |
-| Monday, June 18th | Sessions | Poster session | Evening field trip |
-| Tuesday, June 19th | Sessions | Field trip | |
-| Wednesday, June 20th | Sessions | Field trip | |
-| Thursday, June 21st |\2. Whole day thematic excursion | Great reception |
-| Friday, June 22nd |\2. Whole day excursion "Classical karst" | |
-| Saturday, June 23rd |\2. Departure, optional field trip | |
+| Monday, June 10 ^th^ | Sessions | Poster session | Ice-breaker |
+| Tuesday, June 11 ^th^ | Sessions | Field trip | |
+| Wednesday, June 12 ^th^ | Sessions | Field trip | |
+| Thursday, June 13 ^th^ |\2. Whole day excursion | Great reception |
+| Friday, June 14 ^th^ |\2. Departure, optional field trip | |

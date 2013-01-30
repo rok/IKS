@@ -9,19 +9,18 @@ english-file: technical_information
 h2. Tehnične informacije
 
 Uradna jezika šole sta angleščina in slovenščina. 
-Registracija se bo pričela 15. februarja in se bo končala 30. aprila.  Registracija bo mogoča samo preko spleta.
-Udeležence prosimo, da se "prijavijo elektronsko":prijava_udelezenca.html čim prej vendar le do 30. aprila. Po tem roku novih prijav ne bomo mogli sprejemati. 
-Povzetke v angleščini sprejemamo ob registraciji. Tudi oddaja povzetkov je elektronska.  Povzetki bodo objavljeni skupaj z vodnikom po ekskurzijah in programom šole. 
-Udeleženci naj navedejo način predstavitve, vendar bo odločitev (ustna predstavitev ali poster) sprejel organizator šole. Izbrani prispevki bodo lahko objavljeni v "Acta Carsologica":http://carsologica.zrc-sazu.si/.
+Registracija se bo pričela 15. februarja in se bo končala 30. aprila. Registracija bo mogoča samo preko spleta. 
+Udeležence prosimo, da se "prijavijo elektronsko":prijava_udelezenca.html čim prej vendar le do *30. aprila 2013*. Po tem roku novih prijav ne bomo mogli sprejemati. 
+Povzetke v angleščini sprejemamo ob registraciji. Tudi oddaja povzetkov je elektronska. Povzetki bodo objavljeni skupaj z vodnikom po ekskurzijah in programom šole. Udeleženci naj navedejo način predstavitve, vendar bo odločitev (ustna predstavitev ali poster) sprejel organizator šole. Izbrani prispevki bodo lahko objavljeni v reviji "Acta Carsologica":http://carsologica.zrc-sazu.si/.
 
-Drugo obvestilo, ki bo  vsebovalo podrobnejši program 20. Mednarodne krasoslovnešole "Klasični kras" bo objavljeno 10. maja 2012.
-Normalna kotizacija je **100 EUR**, kotizacija za dodiplomske študente pa **20 EUR**. Vključuje gradivo srečanja, osvežilne pijače med odmori, udeležbo na sprejemu in vse ekskurzije. Kotizacijo morate plačati preko banke ob prijavi na šolo. 
+Drugo obvestilo, ki bo vsebovalo podrobnejši program 21. mednarodne krasoslovne šole “Klasični kras” bo objavljeno 10. maja 2013.
+Normalna kotizacija je **125 EUR**, kotizacija za dodiplomske študente pa **25 EUR**. Vključuje gradivo srečanja, osvežilne pijače med odmori, udeležbo na sprejemu in vse ekskurzije. Kotizacijo morate plačati preko banke ob prijavi na šolo. 
 
-Prosimo, plačajte kotizacijo pred 30. Aprilom na:
+Prosimo, plačajte kotizacijo pred 30. aprilom na:
 
 div(bank). 
   IBAN: SI56 01100 6030347346
   SWIFT: BSLJSI2X 
-  Sklic na: 41139 - 20
+  Sklic na: 41139 – 21
   Naš naslov: ZRC SAZU, Novi trg 2, 1000 Ljubljana
   Naslov banke: BANKA SLOVENIJE, Slovenska cesta 35, SI-1000 Ljubljana, Slovenia

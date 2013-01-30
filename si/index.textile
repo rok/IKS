@@ -9,4 +9,4 @@ english-file: index
 div(platnica). 
   !../slike/platnica.jpg!
   "1. Obvestilo":1-obvestilo.html
-  "2. Obvestilo [PDF]":../datoteke/20-IKS-Program.pdf
+  <!--  "2nd Circular [PDF]":../datoteke/21-IKS-Program.pdf -->
