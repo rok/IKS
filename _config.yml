@@ -1,1 +1,2 @@
 pygments: true
+exclude: ['create.rb', 'README', 'Rakefile']
