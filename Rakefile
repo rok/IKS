@@ -7,16 +7,8 @@ task :preview do
 end
 
 namespace :post do
-  desc "Create a new post and edit in Notepad++"
+  desc "Create a new post"
   task :new do
     system "ruby create.rb"
   end
-end
- 
-desc "deploy site to Heroku and Github"
-task :deploy do
-  system "jekyll"
-  system "git add _posts/* _site/*"
-  system 'git commit -m "updated page"'
-  system "git push dreamhost master"
 end
