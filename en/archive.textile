@@ -9,9 +9,10 @@ english-file: archive
 h2. Archive of the past karstological schools
 
 <div id="arhiv">
+* **2013 - Hypogene speleogenesis (between theory and reality…)**
+<a href="../datoteke/GuideBook_2013.pdf">GuideBook (General information, programme, field trips, abstracts (8,7 MB)</a>
 * **2012 - Karst Forms and Processes**
-<a href="../datoteke/Booklet_2012-SLO.pdf">(Coming) Booklet (General information, programme, field trips, abstracts (2,3 MB)</a>
-* **2011 - Karst Underground Protection**
+<a href="../datoteke/GuideBook_2012.pdf">GuideBook (General information, programme, field trips, abstracts (5,3 MB)</a>
 <a href="../datoteke/Booklet_2011-ENG.pdf">Booklet (General information, programme, field trips, abstracts (2,3 MB)</a>
 * **2010 - Dinaric Karst**
 <a href="../datoteke/Booklet_2010.pdf">Booklet (General information, programme, field trips, abstracts (7.2 MB)</a>
