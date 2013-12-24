@@ -1,0 +1,35 @@
+---
+layout: default
+title: Namen in cilji
+language: english
+slovenian-file: namen_in_cilji
+english-file: topic_and_objectives
+---
+
+h2. Topic and objectives 
+
+22 ^nd^ Karstological School will serve as a forum to exchange ideas and experiences among professionals who deal with microorganisms on a daily base. During the meeting, a significant emphasis will be given to the need for holistic understanding of karst including geological, hydrological and ecological processes that are affected by the microbiota. Microbiologists will in the future gradually supplement new information which will serve for comprehensive understanding of underground processes.
+
+**The participants will get answers on the following questions:**
+* Why is important to study microbes in karst?
+* Which are natural processes in caves related to microbial metabolism?
+* What are sources of energy and nutrients in underground, and methods to reduce eutrophication in underground?
+* Which microorganisms are typical for subterranean aquatic and terrestrial habitats?
+
+**School will be carried out in the form of:**
+* introductory invited lectures from various fields of cave microbiology,
+* selected oral presentations of the School participants,
+* poster presentations,
+* afternoon and whole-day excursions.
+
+**The topics of this year's School are:**
+* Microbial diversity in the underground
+* Geomicrobiology and ecological interactions in caves
+* Microbes and natural processes in the underground
+* Underground eutrophication
+* Caves as a source of new species of microbes
+* Microbes in caves related to biohazard
+
+**Who are the participants at the School:**
+Senior and junior researchers of karst, students, managers of karst resources and all those who are interested in karst as a natural phenomenon.
+

@@ -8,16 +8,25 @@ english-file: general_information
 
 h2. Splošne informacije
 
-Inštitut za raziskovanje krasa ZRC SAZU 
-
+*Organizator*
+Inštitut za raziskovanje krasa
+Znanstvenoraziskovalni center SAZU
 Titov trg 2
-6230 Postojna
-Slovenija 
+SI-6230 Postojna
 
-<b>Telefon:</b> 05/ 700 19 00
-<b>Fax:</b> 05/ 700 19 99
+<b>T:</b> +386 5 700 1900
+<b>F:</b> +386 5 700 1999
+<b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+<b>Web:</b> "http://iks.zrc-sazu.si":http://iks.zrc-sazu.si
 
-<b>E-mail:</b> "izrk@zrc-sazu.si":mailto:izrk@zrc-sazu.si	
-<b>Spletna stran:</b> "http://kras.zrc-sazu.si":http://kras.zrc-sazu.si
+<b>Kontaktna oseba:</b>
+Janez Mulec
+<b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+
+<b>Šolo podpirajo:</b>
+* Slovenska Nacionalna komisija za UNESCO
+* Znanstvenoraziskovalni center SAZU
+* Občina Postojna
+* Postojnska jama d.d.
 
 !../slike/KRI_building.jpg!

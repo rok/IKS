@@ -6,79 +6,98 @@ slovenian-file: 1-obvestilo
 english-file: 1st-circular
 ---
 
+p=. **22. Mednarodna krasoslovna šola  "Klasični kras"**
+*Kras in mikroorganizmi*
+Postojna, 16. do 20. junija 2014
+ 
 _**1. Obvestilo**_
 
-p=. **21. Mednarodna krasoslovna šola  "Klasični kras"**
-*Hipogena speleogeneza (med teorijo in resničnostjo…)*
-Postojna, 10. do 14. junij 2013
+Mednarodno krasoslovno šolo »Klasični Kras« organiziramo že od leta 1993. Šola pokriva različna področja raziskovanja krasa. Osnovni namen srečanja je predstavitev trenutnega razumevanja krasa v okviru izbrane teme, spodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju klasičnega krasa v Sloveniji. 
+
+Razvoj molekularne biologije in splošen napredek v naravoslovju je v 90-ih letih 20. stoletja in kasneje botroval, da se je večje število raziskav o mikroorganizmih in njihovih interakcijah začelo navezovati tudi na kraško podzemlje. Znani so primeri, ko se v podzemlju v odsotnosti svetlobe ob ustreznih pogojih vzpostavijo zapleteni ekosistemi, ki jim mikrobi v kemosinteznih reakcijah zagotavljajo energijo in hranila. Mikroorganizmi v jamah so vpleteni tako v litogene kot litolitične procese. Veliko mikrobov je v podzemlje vnesenih po naravni poti, pogosto je njihov vnos posledica človekovih aktivnosti. V jamah, urejenih za turističen obisk, so mikrobni biofilmi, ki nastanejo zaradi antropogenega delovanja, velik problem. Določeni mikroorganizmi v jamah predstavljajo tveganje za zdravje ljudi in živali. Indikatorske mikroorganizme se uporablja kot merilo za kakovost voda pri organskih onesnaženjih v podzemlju. V jamah je veliko različnih habitatov, ki jih naseljujejo mikroorganizmi in o katerih vemo še zelo malo in predstavljajo velik biotehnološki in bioremediacijski potencial. Znanje o interakcijah med mikrobi v jamah z višje razvitimi podzemeljskimi organizmi je še v začetni fazi.
  
+22. krasoslovna šola bo služila kot forum za izmenjavo idej in izkušenj med različnimi strokovnjaki, ki se z mikroorganizmi ukvarjajo pri svojem vsakdanjem delu. Na srečanju bomo dali pomemben poudarek potrebi po razumevanju krasa kot celote, vključno z geološkimi, hidrološkimi in ekološkimi procesi na katere vpliva mikrobiota. V prihodnosti bodo prav mikrobiologi tisti, ki bodo s svojimi raziskavami postopoma dodajali pomembne informacije, ki bodo služile celostnemu razumevanju procesov v podzemlju.
 
-organizator:
+*Udeleženci bodo dobili odgovore na naslednja vprašanja:*
+* Zakaj je pomembno proučevanje mikrobov v krasu?
+* Kateri so naravni procesi v jamah, ki so pogojeni z  mikrobnim metabolizmom?
+* Kateri so viri energije in hranil v podzemlju ter načini za zmanjševanje evtrofikacije podzemlja?
+* Kateri mikroorganizmi so značilni za podzemeljske vodne in terestične habitate?
 
-**INŠTITUT ZA RAZISKOVANJE KRASA ZRC SAZU**
+*Šola bo potekala v obliki:*
+* uvodnih vabljenih predavanj z različnih področij jamske mikrobiologije,
+* izbranih predavanj udeležencev šole,
+* predstavitve posterjev,
+* popoldanskih in celodnevne ekskurzije.
+
+*Teme letošnje šole so:*
+* Mikrobna diverziteta v podzemlju
+* Geomikrobiologija in ekološke interakcije v jamah
+* Mikrobi in naravni procesi v podzemlju
+* Evtrofikacija podzemlja
+* Jame kot vir novih vrst mikrobov
+* Mikrobi v jamah, povezani s tveganjem za zdravje
+
+*Kdo so udeleženci šole:*
+
+Uveljavljeni in mlajši raziskovalci krasa, študenti, upravljavci kraških virov in vsi, ki jih zanima kras kot naravni pojav.
  
-Mednarodno krasoslovno šolo »Klasični Kras« organiziramo že od leta 1993. Šola pokriva različna področja raziskovanja krasa. Osnovna namen Šole je predstavitev trenutnega razumevanja krasa v okviru izbrane teme, spodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju Klasičnega krasa v Sloveniji. 
-V zadnjem desetletju je bilo proučevanje procesov hipogene speleogeneze med raziskovalci še posebej priljubljeno. Veliko jam, ki so jim predhodno pripisovali »normalen« freatičen nastanek je bilo ponovno raziskanih, njihov nastanek pa v veliki meri razložen s hipogenimi procesi. Nekatere temeljne publikacije na to temo so sprožile dvome in razprave, kajti razporeditve jamskih rovov in stenske jamske oblike značilne za hipogene jame lahko nastanejo tudi pod drugačnimi pogoji. Zato je namen letošnje krasoslovne šole predstaviti osnovne hidrogeološke in kemijske principe in procese ter geološke pogoje hipogene speleogeneze. Posebno pozornost bomo posvetili geometriji jamskih rovov in jamskih stenskih oblik, ki so pogosto interpretirane kot hipogene, vendar pa se lahko tvorijo tudi drugače, npr. v pogojih meteorne poplavne vode ali z raztapljanjem na stiku s sedimentom.
+_**Program**_
 
-**Udeleženci bodo dobili odgovore na naslednja vprašanja:**
-* Kaj je hipogena speleogeneza
-* Kateri so značilni in potrebni geološki pogoji za hipogeno speleogenezo
-* Kateri fizikalno-kemijski procesi so pomembni za hipogeno speleogenezo
-* Katere oblike so značilne izključno za hipogeno speleogenezo
-* Kako ločiti hipogene od epigenih jam
+|_. |_. 16. junij |_. 17. junij |_. 18. junij |_. 19. junij |_. 20. junij |
+| | PON | TOR | SRE | ČET | PET |
+| Dop. |-Prihod udeležencev
+-Registracija
+-Otvoritev dogodka
+-Vabljeno predavanje
+-Referati udeležencev predavanja | -Vabljeno predavanje
+-Referati udeležencev | -Vabljeno predavanje
+-Referati udeležencev | -Celodnevna ekskurzija | -Zaključek srečanja
+-Tematska ekskurzija |
+| Pop. | -Predstavitev posterjev | -Tematska ekskurzija 
+-Terenska predavanja | -Tematska ekskurzija 
+-Terenska predavanja | -Celodnevna ekskurzija
+-Večerni sprejem udeležencev | -Odhod udeležencev |
 
- 
-**Delo šole bo potekalo v obliki**
-* Uvodnih vabljenih predavanj iz različnih področij krasoslovja
-* Izbranih predavanj udeležencev šole
-* Predstavitev posterjev
-* Popoldanske in celodnevne ekskurzije
+_**Registracija**_
 
-**Tema letošnje šole je**
-* Hipogena spelogeneza (hidrogeologija, kemija, geologija in oblike)
-* Podobnosti in razlike med hipogenimi in epigenimi jamami
-* Hipogena speleogeneza v evaporitih
-* Speleogeneza v arteških vodonosnikih
-* Termalne in hidrotermalne jame
-* Minerali povezani s hipogeno speleogenezo
- 
+Uradna jezika šole sta angleščina in slovenščina. 
 
-**Šola je namenjena:**
+Registracija je možna samo preko "spletnega obrazca":prijava_udelezenca.html. Pričela se bo 15. februarja in bo trajala do vključno 30. aprila 2014.
 
-Starejšim in mlajšim raziskovalcem krasa, študentom, upravljavcem kraških resursov in vsem, ki jih zanima kras kot naravni pojav.
- 
- **Program**
+Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo želeni način predstavitve (ustna predstavitev ali poster), vendar bo končno odločitev sprejel organizator šole. Povzetki bodo objavljeni skupaj z vodnikom po ekskurzijah in programom šole. Izbrani prispevki bodo lahko objavljeni v reviji "Acta Carsologica":http://carsologica.zrc-sazu.si/.
 
-|_. Dan |_. Dopoldne |_. Popoldne |_. Zvečer |
-| ponedeljek, 10. junij | predavanja | predstavitev posterjev | spoznavni večer |
-| torek, 11. junij | predavanja | ekskurzija | |
-| sreda, 12. junij | predavanja | ekskurzija | |
-| četrtek, 13. junij |\2.  celodnevna tematska ekskurzija | Veliki sprejem |
-| petek, 14. junij |\3. odhod, možnost ekskurzije “Klasični kras” |
+Kotizacija znaša 125 EUR, kar vključuje tiskano gradivo za šolo in ekskurzije, osvežilo med odmori in udeležbo na večernem sprejemu. Kotizacija za študente znaša 25 EUR. Kotizacija mora biti poravnana do 30. aprila 2014:
+Prosimo, plačajte kotizacijo pred 30. aprilom na:
 
+div(bank). 
+  IBAN: SI56 01100 6030347346
+  SWIFT: BSLJSI2X 
+  Sklic na: 41139 – 22
+  Naš naslov: ZRC SAZU, Novi trg 2, 1000 Ljubljana
+  Naslov banke: BANKA SLOVENIJE, Slovenska cesta 35, SI-1000 Ljubljana, Slovenia
 
-**REGISTRACIJA**
-Registracija se bo pričela 15. februarja in se bo zaprla 30. aprila.  Registracija bo mogoča samo preko spleta, navodila za plačilo pa bodo na spletni strani šole. Kotizacija mora biti poravnana ob registraciji.  Spletna povezava za registracijo in za druge informacije bo aktivna na domači strani Inštituta  na "http://izrk.zrc-sazu.si":http://izrk.zrc-sazu.si  po 15. februarju..
- 
-Kotizacija je **125 EUR**. Vključuje gradivo za šolo in ekskurzije, osvežilo med odmori in med pri ekskurzijami in udeležbo na večernem sprejemu. Kotizacija za študente je **25 EUR**.
-Uradna jezika šole sta angleščina in slovenščina. Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo način predstavitve, vendar bo odločitev (ustna predstavitev ali poster) sprejel organizator šole. Izbrani prispevki bodo lahko objavljeni v reviji Acta Carsologica.
- 
-Drugo obvestilo, ki bo vsebovalo podrobnejši program šole bo objavljeno 10. maja 2013.
- 
-**Šolo podpirajo:**
-Slovenska Nacionalna komisija za UNESCO, Znanstvenoraziskovalni center SAZU, Občina Postojna, Postojnska jama d.d. 
+Drugo obvestilo, ki bo vsebovalo podrobnejši program 22. mednarodne krasoslovne šole, bo objavljeno 10. maja 2014.
 
- 
-**Vse informacije so dostopne na:**
+_**Organizator**_
 Inštitut za raziskovanje krasa
 Znanstvenoraziskovalni center SAZU
 Titov trg 2
-SI - 6230 Postojna
-Tel.: ( +386 ) 5 70 019 00
-Fax: ( +386 ) 5 70 019 99
-E-mail: "izrk@zrc-sazu.si":mailto:izrk@zrc-sazu.si
-Web: "http://izrk.zrc-sazu.si":http://izrk.zrc-sazu.si
- 
-**Kontaktni osebi:**
-Dr. Bojan Otoničar, "otonicar@zrc-sazu.si":mailto:otonicar@zrc-sazu.si
-Dr. Franci Gabrovšek, "gabrovsek@zrc-sazu.si":mailto:gabrovsek@zrc-sazu.si
+SI-6230 Postojna
+
+<b>T:</b> +386 5 700 1900
+<b>F:</b> +386 5 700 1999
+<b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+<b>Web:</b> "http://iks.zrc-sazu.si":http://iks.zrc-sazu.si
+
+<b>Kontaktna oseba:</b>
+Janez Mulec
+<b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+
+<b>Šolo podpirajo:</b>
+* Slovenska Nacionalna komisija za UNESCO
+* Znanstvenoraziskovalni center SAZU
+* Občina Postojna
+* Postojnska jama d.d.
+
+

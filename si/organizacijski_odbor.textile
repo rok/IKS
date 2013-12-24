@@ -8,33 +8,32 @@ english-file: organizing_committee
 !>../slike/sodelavci.jpg!
 
 h2. Organizacijski odbor
-* dr. Bojan Otoničar
-* dr. Franci Gabrovšek
-* dr. Andrej Mihevc,
-* dr. Nadja Zupan Hajna
-* dr. Mitja Prelovšek
-* dipl. geog. Petra Gostinčar
-* dr. Martin Knez
-* dr. Janja Kogovšek
-* dr. Janez Mulec
-* dr. Tanja Pipan
-* dr. Metka Petrič
-* dr. Tadej Slabe
-* dr. Stanka Šebela
-* dr. Nataša Viršek Ravbar
 
-h2. Programski odbor
+* Franci Gabrovšek
+* Petra Gostinčar
+* Martin Knez
+* Janja Kogovšek
+* Peter Kozel
+* Andrej Mihevc
+* Janez Mulec
+* Bojan Otoničar
+* Metka Petrič
+* Tanja Pipan
+* Mitja Prelovšek
+* Tadej Slabe
+* Stanka Šebela
+* Nadja Zupan Hajna
+* Nataša Viršek Ravbar
 
-* dr. Philippe Audra
-* dr. Pavel Bosak
-* dr. Yuri Dublyansky
-* dr. Anita Eröss
-* dr. Franci Gabrovšek
-* Marjutka Hafner
-* akad. dr. Andrej Kranjc
-* dr. Marco Menichetti
-* dr. Bojan Otoničar
-* dr. Matija Perne
-* dr. Tadej Slabe
-* dr. Andrzej Tyc
-* dr. Nadja Zupan Hajna
+
+h2. Programski odbor 
+
+* Alica Chroňáková
+* Marjutka Hafner 
+* Václav Krištůfek
+* Alenka Mauko 
+* Janez Mulec
+* Colin Murrell
+* Lejla Pašić
+* Blaž Stres
+* Annette Summers Engel
