@@ -1,2 +1,3 @@
 rake            # build the site, serve on 0.0.0.0:4000
+rake pdf        # Generates 1st circular pdfs
 rake post:new   # Create a new post

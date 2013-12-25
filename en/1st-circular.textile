@@ -10,11 +10,15 @@ p=. **22 ^nd^ INTERNATIONAL KARSTOLOGICAL SCHOOL "CLASSICAL KARST"**
 *KARST AND MICROORGANISMS*
 Postojna, June 16 ^th^ to 20 ^th^ 2014
 
-_**1st Circular**_
+h2. 1st Circular
 
 International Karstological School "Classical Karst" has been organized since 1993. Different aspects of karst studies are presented at each school. The basic objectives of the meeting are to present current state of the art of the selected topic, encouragement of discussions related to the school’s topic among participants through lectures, poster presentations and during field trips in the area of Classical Karst in Slovenia.
 
 The development of molecular biology and general progress in nature sciences since 1990’s resulted in increased number of studies of microorganisms and their interactions related to the karst underground. There are cases of complex ecosystems that are developed in the underground in the absence of light, and are based on energy and nutrients provided by the microbes in chemosynthetic reactions. Microorganisms in the caves are involved in both, lithogenic and litholitic processes. Many microbes are introduced in underground naturally, frequently also by means of human activities. Biofilms that are formed in show caves as a consequence of anthropogenic activities, represent a significant problem. Some microorganisms in caves represent biohazard for humans and animals. Indicator microorganisms are used to assess water quality of organic pollutions in the underground. There is a wide variety of habitats colonized by microorganisms which are poorly known, but they offer a major biotechnological and bioremediation potential. Our knowledge on interactions between microbes and higher developed organisms is still in its infancy.
+
+</div><div class="page-break"></div><div class="content-nc">
+
+h2. Topic and Objectives
 
 22 ^nd^ Karstological School will serve as a forum to exchange ideas and experiences among professionals who deal with microorganisms on a daily base. During the meeting, a significant emphasis will be given to the need for holistic understanding of karst including geological, hydrological and ecological processes that are affected by the microbiota. Microbiologists will in the future gradually supplement new information which will serve for comprehensive understanding of underground processes.
 
@@ -41,7 +45,10 @@ The development of molecular biology and general progress in nature sciences sin
 **Who are the participants at the School:**
 Senior and junior researchers of karst, students, managers of karst resources and all those who are interested in karst as a natural phenomenon.
 
-_**Program outline**_
+</div><div class="page-break"></div><div class="content-nc">
+
+h2. Program outline
+<br>
 
 |_. |_. 16. June |_. 17. June |_. 18. June |_. 19. June |_. 20. June |
 | | MON | TUE | WED | THU | FRI |
@@ -58,7 +65,9 @@ _**Program outline**_
 -Field trip | -Whole-day excursion
 -Evening reception of participants | -Departure of participants |
 
-_**Registration**_
+<br>
+
+h2. Registration
 
 The official languages of the School are English and Slovenian.
 
@@ -76,8 +85,9 @@ div(bank).
   Bank address: BANKA SLOVENIJE, Slovenska cesta 35, SI-1000 Ljubljana, Slovenia
 
 The Second Circular of the 22 ^nd^ International Karstological School with detailed programme will be announced from 10 May, 2014.
+</div><div class="page-break"></div><div class="content-nc">
 
-_**Organizer**_
+h2. Organizer
 
 Karst Research Institute ZRC SAZU
 Titov trg 2

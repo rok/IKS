@@ -184,7 +184,7 @@ div#subtitle {
 /*
 /*****************************************************************************/
 
-.content {
+.content-nc {
   font-family: "droid-sans";
   float:right;
   width:600px;
@@ -240,4 +240,16 @@ border: 1px solid black;
 }
 th {
 background-color:#bbb;
+}
+
+
+/*****************************************************************************/
+/*
+/* Page settings
+/*
+/*****************************************************************************/
+.page-break {
+display: block;
+clear: both; 
+page-break-after: always;
 }

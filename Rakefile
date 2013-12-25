@@ -13,9 +13,11 @@ task :pdf do
   system "sed -i 's/layout: default/layout: circular/g' ./1st-circular.textile"
   system "sed -i 's/layout: default/layout: circular/g' ./1-obvestilo.textile"
   system "jekyll build"
+  system "sed -i 's/content-nc/content-circular/g' ./_site/1st-circular.html"
+  system "sed -i 's/content-nc/content-circular/g' ./_site/1-obvestilo.html"
   system "wkhtmltopdf _site/1st-circular.html datoteke/1st-Circular.pdf"
   system "wkhtmltopdf _site/1-obvestilo.html datoteke/1-Obvestilo.pdf"
-  system "rm 1-Obvestilo.textile 1st-Circular.textile"
+  system "rm 1-obvestilo.textile 1st-circular.textile"
 end
 
 namespace :post do
