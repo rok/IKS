@@ -6,8 +6,8 @@ slovenian-file: 1-obvestilo
 english-file: 1st-circular
 ---
 
-p=. **22. Mednarodna krasoslovna šola  "Klasični kras"**
-*Kras in mikroorganizmi*
+p=. **22. MEDNARODNA KRASOSLOVNA ŠOLA "KLASIČNI KRAS"**
+*KRAS IN MIKROORGANIZMI*
 Postojna, 16. do 20. junija 2014
  
 _**1. Obvestilo**_

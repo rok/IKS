@@ -134,6 +134,10 @@ img#proteus {
 .header{
   padding-bottom:4px;
 }
+.header-circular {
+  padding-bottom:4px;
+  text-align:center;
+}
 
 .title {
   font-family: "adobe-garamond-pro";
@@ -186,6 +190,14 @@ div#subtitle {
   width:600px;
   padding-bottom: 20px;
 }
+
+.content-circular {
+  font-family: "droid-sans";
+  float:right;
+  width:800px;
+  padding-bottom: 20px;
+}
+
 
 div.platnica {
   width:67%;
