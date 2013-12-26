@@ -89,7 +89,7 @@ img {
 }
 
 .column-frame {
-  list-style-type: disc;
+  list-style-type: none;
   font-family: "droid-sans";
   border:1px solid #bbbbbb; 
   width:150px; 
@@ -226,9 +226,7 @@ ul {
   padding-left: 10px;
   list-style-type: disc;
 }
-li {
-  list-style-type: disc;
-}
+
 div#arhiv li {
   padding:4px 0px;
 }
