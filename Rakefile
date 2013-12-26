@@ -8,16 +8,19 @@ end
 
 desc "create 1st circular pdf"
 task :pdf do
-  system "cp en/1st-circular.textile ./1st-circular.textile"
-  system "cp si/1-obvestilo.textile ./1-obvestilo.textile"
-  system "sed -i 's/layout: default/layout: circular/g' ./1st-circular.textile"
-  system "sed -i 's/layout: default/layout: circular/g' ./1-obvestilo.textile"
+  system "cp en/1st-circular.textile ./1en.textile"
+  system "cp si/1-obvestilo.textile ./1si.textile"
+  system "sed -i 's/layout: default/layout: circular/g' ./1en.textile"
+  system "sed -i 's/layout: default/layout: circular/g' ./1si.textile"
   system "jekyll build"
-  system "sed -i 's/content-nc/content-circular/g' ./_site/1st-circular.html"
-  system "sed -i 's/content-nc/content-circular/g' ./_site/1-obvestilo.html"
-  system "wkhtmltopdf _site/1st-circular.html datoteke/1st-Circular.pdf"
-  system "wkhtmltopdf _site/1-obvestilo.html datoteke/1-Obvestilo.pdf"
-  system "rm 1-obvestilo.textile 1st-circular.textile"
+  system "cp ./_site/1en.html ./en/1en.html"
+  system "cp ./_site/1si.html ./si/1si.html"
+  system "sed -i 's/content-nc/content-circular/g' ./en/1en.html"
+  system "sed -i 's/content-nc/content-circular/g' ./si/1si.html"
+  system "wkhtmltopdf -T 15 -L 15 -R 15 ./en/1en.html datoteke/1st-Circular.pdf"
+  system "wkhtmltopdf -T 15 -L 15 -R 15 ./si/1si.html datoteke/1-Obvestilo.pdf"
+  system "rm 1en.textile ./en/1en.html 1si.textile ./si/1si.html"
+#  system "rm 1en.textile 1si.textile"
 end
 
 namespace :post do

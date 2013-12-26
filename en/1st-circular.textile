@@ -10,7 +10,7 @@ p=. **22 ^nd^ INTERNATIONAL KARSTOLOGICAL SCHOOL "CLASSICAL KARST"**
 *KARST AND MICROORGANISMS*
 Postojna, June 16 ^th^ to 20 ^th^ 2014
 
-h2. 1st Circular
+h2. First Circular
 
 International Karstological School "Classical Karst" has been organized since 1993. Different aspects of karst studies are presented at each school. The basic objectives of the meeting are to present current state of the art of the selected topic, encouragement of discussions related to the school’s topic among participants through lectures, poster presentations and during field trips in the area of Classical Karst in Slovenia.
 
@@ -18,7 +18,7 @@ The development of molecular biology and general progress in nature sciences sin
 
 </div><div class="page-break"></div><div class="content-nc">
 
-h2. Topic and Objectives
+h2. Topic and objectives
 
 22 ^nd^ Karstological School will serve as a forum to exchange ideas and experiences among professionals who deal with microorganisms on a daily base. During the meeting, a significant emphasis will be given to the need for holistic understanding of karst including geological, hydrological and ecological processes that are affected by the microbiota. Microbiologists will in the future gradually supplement new information which will serve for comprehensive understanding of underground processes.
 
@@ -52,18 +52,18 @@ h2. Program outline
 
 |_. |_. 16. June |_. 17. June |_. 18. June |_. 19. June |_. 20. June |
 | | MON | TUE | WED | THU | FRI |
-| Morning |- Arrival of participants
--Registration
+|Morning|-Arrival of participants
+&#8209;Registration
 -Opening event
 -Invited lecture
--Lectures of participants | -Invited lecture
--Lectures of participants | -Invited lecture
--Lectures of participants | -Whole-day excursion | -Closing of meeting
--Thematic excursion |
-| Afternoon | -Poster session | -Thematic lectures 
--Field trip | -Thematic lectures 
--Field trip | -Whole-day excursion
--Evening reception of participants | -Departure of participants |
+-Lectures of participants|-Invited lecture
+-Lectures of participants|-Invited lecture
+-Lectures of participants|-Whole-day excursion|-Closing of meeting
+-Thematic excursion|
+|Afternoon|-Poster session|-Thematic lectures
+-Field trip|-Thematic lectures
+-Field trip|-Whole-day excursion
+-Evening reception of participants|-Departure of participants|
 
 <br>
 
@@ -92,6 +92,7 @@ h2. Organizer
 Karst Research Institute ZRC SAZU
 Titov trg 2
 SI-6230 Postojna
+Slovenia
 
 <b>T:</b> +386 5 700 1900
 <b>F:</b> +386 5 700 1999
@@ -103,7 +104,6 @@ Janez Mulec
 <b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
 
 <b>The school is supported by:</b>
-* The School is supported by:
 * Slovenian National Commission for UNESCO
 * Scientific Research Centre of the Slovenian Academy of Sciences and Arts
 * Municipality of Postojna

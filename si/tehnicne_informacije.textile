@@ -15,7 +15,6 @@ Registracija je možna samo preko "spletnega obrazca":prijava_udelezenca.html. P
 Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo želeni način predstavitve (ustna predstavitev ali poster), vendar bo končno odločitev sprejel organizator šole. Povzetki bodo objavljeni skupaj z vodnikom po ekskurzijah in programom šole. Izbrani prispevki bodo lahko objavljeni v reviji "Acta Carsologica":http://carsologica.zrc-sazu.si/.
 
 Kotizacija znaša 125 EUR, kar vključuje tiskano gradivo za šolo in ekskurzije, osvežilo med odmori in udeležbo na večernem sprejemu. Kotizacija za študente znaša 25 EUR. Kotizacija mora biti poravnana do 30. aprila 2014:
-Prosimo, plačajte kotizacijo pred 30. aprilom na:
 
 div(bank). 
   IBAN: SI56 01100 6030347346
@@ -24,4 +23,4 @@ div(bank).
   Naš naslov: ZRC SAZU, Novi trg 2, 1000 Ljubljana
   Naslov banke: BANKA SLOVENIJE, Slovenska cesta 35, SI-1000 Ljubljana, Slovenia
 
-Drugo obvestilo, ki bo vsebovalo podrobnejši program 22. mednarodne krasoslovne šole, bo objavljeno 10. maja 2014.
+Drugo obvestilo, ki bo vsebovalo podrobnejši program 22. Mednarodne krasoslovne šole, bo objavljeno 10. maja 2014.

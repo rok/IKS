@@ -89,7 +89,7 @@ img {
 }
 
 .column-frame {
-list-style-type: none; 
+  list-style-type: disc;
   font-family: "droid-sans";
   border:1px solid #bbbbbb; 
   width:150px; 
@@ -224,8 +224,11 @@ div.platnica a:visited {
 
 ul {
   padding-left: 10px;
+  list-style-type: disc;
 }
-
+li {
+  list-style-type: disc;
+}
 div#arhiv li {
   padding:4px 0px;
 }

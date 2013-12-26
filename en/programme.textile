@@ -10,15 +10,15 @@ h2. Program outline
 
 |_. |_. 16. June |_. 17. June |_. 18. June |_. 19. June |_. 20. June |
 | | MON | TUE | WED | THU | FRI |
-| Morning |- Arrival of participants
--Registration
+|Morning|-Arrival of participants
+&#8209;Registration
 -Opening event
 -Invited lecture
--Lectures of participants | -Invited lecture
--Lectures of participants | -Invited lecture
--Lectures of participants | -Whole-day excursion | -Closing of meeting
--Thematic excursion |
-| Afternoon | -Poster session | -Thematic lectures 
--Field trip | -Thematic lectures 
--Field trip | -Whole-day excursion
--Evening reception of participants | -Departure of participants |
+-Lectures of participants|-Invited lecture
+-Lectures of participants|-Invited lecture
+-Lectures of participants|-Whole-day excursion|-Closing of meeting
+-Thematic excursion|
+|Afternoon|-Poster session|-Thematic lectures
+-Field trip|-Thematic lectures
+-Field trip|-Whole-day excursion
+-Evening reception of participants|-Departure of participants|
