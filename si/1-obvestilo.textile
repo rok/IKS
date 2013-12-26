@@ -15,7 +15,8 @@ h2. Prvo obvestilo
 Mednarodno krasoslovno šolo »Klasični Kras« organiziramo že od leta 1993. Šola pokriva različna področja raziskovanja krasa. Osnovni namen srečanja je predstavitev trenutnega razumevanja krasa v okviru izbrane teme, spodbujanje razprave med udeleženci s pomočjo predavanj, predstavitvami posterjev in s temo šole povezanimi ekskurzijami na območju klasičnega krasa v Sloveniji. 
 
 Razvoj molekularne biologije in splošen napredek v naravoslovju je v 90-ih letih 20. stoletja in kasneje botroval, da se je večje število raziskav o mikroorganizmih in njihovih interakcijah začelo navezovati tudi na kraško podzemlje. Znani so primeri, ko se v podzemlju v odsotnosti svetlobe ob ustreznih pogojih vzpostavijo zapleteni ekosistemi, ki jim mikrobi v kemosinteznih reakcijah zagotavljajo energijo in hranila. Mikroorganizmi v jamah so vpleteni tako v litogene kot litolitične procese. Veliko mikrobov je v podzemlje vnesenih po naravni poti, pogosto je njihov vnos posledica človekovih aktivnosti. V jamah, urejenih za turističen obisk, so mikrobni biofilmi, ki nastanejo zaradi antropogenega delovanja, velik problem. Določeni mikroorganizmi v jamah predstavljajo tveganje za zdravje ljudi in živali. Indikatorske mikroorganizme se uporablja kot merilo za kakovost voda pri organskih onesnaženjih v podzemlju. V jamah je veliko različnih habitatov, ki jih naseljujejo mikroorganizmi in o katerih vemo še zelo malo in predstavljajo velik biotehnološki in bioremediacijski potencial. Znanje o interakcijah med mikrobi v jamah z višje razvitimi podzemeljskimi organizmi je še v začetni fazi.
-</div><div class="page-break"></div><div class="content-nc">
+
+</div><div class="page-break">&nbsp;</div><div class="content-nc">
 
 h2. Namen in cilji
 
@@ -46,7 +47,7 @@ h2. Namen in cilji
 
 Uveljavljeni in mlajši raziskovalci krasa, študenti, upravljavci kraških virov in vsi, ki jih zanima kras kot naravni pojav.
 
-</div><div class="page-break"></div><div class="content-nc">
+</div><div class="page-break">&nbsp;</div><div class="content-nc">
 
 h2. Program
 
@@ -65,7 +66,7 @@ h2. Program
 -Terenska predavanja | -Celodnevna ekskurzija
 -Večerni sprejem udeležencev | -Odhod udeležencev |
 
-</div><div class="page-break"></div><div class="content-nc">
+</div><div class="page-break">&nbsp;</div><div class="content-nc">
 
 h2. Registracija
 
@@ -86,7 +87,7 @@ div(bank).
 
 Drugo obvestilo, ki bo vsebovalo podrobnejši program 22. Mednarodne krasoslovne šole, bo objavljeno 10. maja 2014.
 
-</div><div class="page-break"></div><div class="content-nc">
+</div><div class="page-break">&nbsp;</div><div class="content-nc">
 
 h2. Organizator
 
