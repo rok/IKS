@@ -9,4 +9,4 @@ english-file: index
 div(platnica). 
   !../slike/platnica.jpg!
   "First Circular":1st-circular.html ("PDF":../datoteke/1st-Circular.pdf)
-<!--  "2nd Circular [PDF]":../datoteke/21-IKS-Program.pdf -->
+  "2nd Circular [PDF]":../datoteke/2-circular-Karstological-School-2014.pdf

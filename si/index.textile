@@ -9,4 +9,4 @@ english-file: index
 div(platnica). 
   !../slike/platnica.jpg!
   "Prvo obvestilo":1-obvestilo.html ("PDF":../datoteke/1-Obvestilo.pdf)
-  <!--  "2nd Circular [PDF]":../datoteke/21-IKS-Program.pdf -->
+  "Drugo obvestilo [PDF]":../datoteke/2-circular-Karstological-School-2014-SLO.pdf
