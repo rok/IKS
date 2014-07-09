@@ -9,6 +9,8 @@ english-file: archive
 h2. Arhiv preteklih krasoslovnih šol
 
 <div id="arhiv">
+* **2014 - Kras in mikroorganizmi**
+<a href="../datoteke/GuideBook_2014.pdf">Program, vodnik in povzetki (6,2 MB)</a>
 * **2013 - Hipogena speleogeneza (med teorijo in resničnostjo…)**
 <a href="../datoteke/GuideBook_2013.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (8,7 MB)</a>
 * **2012 - Kraške oblike in procesi**
