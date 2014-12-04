@@ -5,35 +5,43 @@ language: slovenian
 slovenian-file: organizacijski_odbor
 english-file: organizing_committee
 ---
+h2. Organizatorji
+
+*Mednarodna krasoslovna šola “Klasični kras”:* Inštitut za raziskovanje krasa ZRC SAZU 
+Titov trg 2, SI-6230 Postojna, Slovenija
+*T:* 05 700 1900
+*F:* 05 700 1999
+*E:* "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+*Web:* "http://iks.zrc-sazu.si":http://iks.zrc-sazu.si
+
+*50. obletnica UISa:*
+Mednarodna speleološka zveza - UIS & Inštitut za raziskovanje krasa ZRC SAZU 
+Titov trg 2; SI-6230 Postojna, Slovenija
+
+*So-organizator 50. obletnice UISa:*
+Postojnska jama d.d.
+Jamska cesta 30, 6230 Postojna, Slovenija
+*Web:* "http://www.postojnska-jama.eu/":http://www.postojnska-jama.eu/
+
+
+*23. mednarodno krasoslovno šolo “Klasični kras” podpirajo:*
+* Slovenska Nacionalna komisija za UNESCO
+* Znanstvenoraziskovalni center SAZU
+* Slovenska akademija znanosti in umetnosti 
+* Občina Postojna
+* Park Škocjanske jame 
+* Grotta Gigante
+* Jamarska zveza Slovenije
+
+*Kontaktna oseba:*
+Nadja Zupan Hajna
+*E:* "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+
 !>../slike/sodelavci.jpg!
 
-h2. Organizacijski odbor
+*Organizacijski odbor*
 
-* Franci Gabrovšek
-* Petra Gostinčar
-* Martin Knez
-* Janja Kogovšek
-* Peter Kozel
-* Andrej Mihevc
-* Janez Mulec
-* Bojan Otoničar
-* Metka Petrič
-* Tanja Pipan
-* Mitja Prelovšek
-* Tadej Slabe
-* Stanka Šebela
-* Nadja Zupan Hajna
-* Nataša Viršek Ravbar
+Nadja Zupan Hajna, Andrej Mihevc, Franci Gabrovšek, Petra Gostinčar, Zdeněk Motyčka, Matej Blatnik, Martin Knez, Peter Kozel, Janez Mulec, Bojan Otoničar, Metka Petrič, Tanja Pipan, Mitja Prelovšek, Tadej Slabe, Stanka Šebela, Nataša Viršek Ravbar
 
-
-h2. Programski odbor 
-
-* Alica Chroňáková
-* Marjutka Hafner 
-* Václav Krištůfek
-* Alenka Mauko 
-* Janez Mulec
-* Colin Murrell
-* Lejla Pašić
-* Blaž Stres
-* Annette Summers Engel
+*Programski odbor*
+Nadja Zupan Hajna, Andrej Mihevc, Andrej Kranjc, Franci Gabrovšek, Pavel Bosák

@@ -6,77 +6,141 @@ slovenian-file: moznosti_nastanitve
 english-file: places_to_stay
 ---
 
-h2. Možnosti nastanitve
+h2. Prevoz z letališč
 
-Udeležence (razen vabljenih) se naproša, da si sami rezervirajo sobe v hotelih oziroma v zasebnih prenočiščih. Pri iskanju si lahko pomagate z naslednjimi informacijami:
+Prevoz iz različnih letališč v Postojno in nazaj lahko rezervirate preko Agencije Kompas Postojna; več informacij na e-naslov: "accommodation@kompas-postojna.si":mailto:accommodation@kompas-postojna.si
 
-!../slike/namestitev.jpg!
+h2. Nastanitev za udeležence
 
-<b>(1) Hotel Kras****</b>
-Tržaška cesta 1
-SI-6230 Postojna
-Tel: 05/ 700 23 00
-Fax: 05/ 700 23 56
-E-naslov: "booking@hotel-kras.si":mailto:booking@hotel-kras.si
-Spletna stran: "http://www.hotel-kras.si":http://www.hotel-kras.si
+Udeležence (razen vabljeni predavatelji in člani UIS Biroja) prosimo, *da si nastanitev rezervirajo preko turistične agencije Kompas Postojna.*
+Agencija *ima posebne cene* za udeležence Šole in  UIS obletnice, če rezervirate svojo nastavitev do *1. februarja 2015.*
 
-<b>(2) Sport hotel & restaurant***</b>
-Kolodvorska ulica 1
-SI-6230 Postojna
-Tel: 05/ 720 22 44
-Fax: 05/ 720 22 40
-E-naslov: "info@sport-hotel.si":mailto:info@sport-hotel.si
-Spletna stran: "http://www.sport-hotel.si":http://www.sport-hotel.si
+Za rezervacijo:
+KOMPAS POSTOJNA, d.o.o., 
+Titov trg 2a, Postojna, Slovenija
+Tel.: (00) 386 5 7211480
+Fax: 	(00) 386 5 7211487
+Kontaktne osebe:  Masa, Azra, Mateja
+e-mail:  "accommodation@kompas-postojna.si":mailto:accommodation@kompas-postojna.si
 
-<b>(3) Hotel epicenter***</b>
-Kazarje 10
-SI-6230 Postojna
-Tel: 05/ 700 22 00
-Fax: 05/ 700 22 44
-E-naslov: "booking@epicenter-on.net":mailto:booking@epicenter-on.net
-Spletna stran: "http://www.hotel-epicenter.si":http://www.hotel-epicenter.si
 
-<b>(4) Youth Hostel Proteus</b>
-Tržaška cesta 36
-SI-6230 Postojna
-Tel: 05/ 726 52 91
-Fax: 05/ 726 22 20
-E-naslov: "recepcija.sgls@guest.arnes.si":mailto:recepcija.sgls@guest.arnes.si
-Spletna stran: "http://www.hihostels.com/dba/hostel092539.en.htm?linkid=980018":http://www.hihostels.com/dba/hostel092539.en.htm?linkid=980018
 
-<b>(6) Postojnska jama</b>
-Jamska cesta 30 
-SI - 6230 Postojna
-Tel:+386 5 700 01 00
-Fax: +386 5 700 01 30
-E-mail: "info@postojnska-jama.si":mailto:info@postojnska-jama.si
-Web page: "http://www.postojnska-jama.si/":http://www.postojnska-jama.si/
+<b>HOTEL SPORT***, Kolodvorska Ulica 1, Postojna</b>
 
-<b>Camping Pivka jama***</b>
-(5 km iz Postojne; kamp in bungalovi)
-Veliki Otok 50
-SI-6230 Postojna
-Tel: 05/ 720 39 93
-Fax: 05/ 726 53 48
-E-naslov: "avtokamp.pivka.jama@siol.net":mailto:avtokamp.pivka.jama@siol.net
-Spletna stran: "http://www.venus-trade.si":http://www.venus-trade.si/slo/index.html
+Cene (na dan): 
+BB 		EUR 38 na osebo v dvoposteljni sobi 
+BB		EUR 53 na osebo v enoposteljni sobi
 
-<b>Speleocamp Laze</b>
-(15 km iz Postojne; kamp, apartmaji in skupna soba)
-Laze 6b
-SI-1370 Logatec
-Tel: 01/ 754 47 60
-E-naslov: "info@speleocamp.com":mailto:info@speleocamp.com
-Spletna stran: "http://www.speleocamp.com":http://www.speleocamp.com
+___
 
-<hr />
+<b>GARNI HOTEL KRAS****, Tržaška cesta 1, Postojna, Slovenia</b>
 
-Dodatne informacije o Postojni in zasebnih prenočiščih lahko dobite na:
+Cene (na dan): 
+BB 		EUR 48 na osebo v dvoposteljni sobi
+BB		EUR 67 na osebo v enoposteljni sobi
 
-<b>(5) Kompas Postojna, turistična agencija, d.o.o.</b>
-Titov trg 2a
-SI-6230 Postojna
-Tel: 05 721 14 80
-Fax: 05/ 721 14 87
-E-naslov: "info@kompas-postojna.si":mailto:info@kompas-postojna.si
-Spletna stran: "http://www.kompas-postojna.si":http://www.kompas-postojna.si/
+___
+
+<b>SOBE IN APARTMAJI PROTEUS****,  Postojna</b>
+
+Cene (na dan): 
+BB 		EUR  47 na osebo v dvoposteljni sobi
+BB		EUR  68 na osebo v enoposteljni sobi.
+Apartma 4 oseb: 	EUR 125 na noč (zajtrk: eur 7 na osebo).
+Apartma 6 oseb: 	EUR 182 na noč (zajtrk: eur 7 na osebo).
+
+___
+
+<b>HOSTEL PROTEUS, Postojna</b>
+
+ 
+Cene (na dan): 
+BB 		EUR 23 na osebo v dvoposteljni sobi
+BB		EUR 30 na osebo v enoposteljni sobi
+
+___
+
+<b>Kamp PIVKA JAMA, Postojna – samo z avtom!</b>
+
+ 
+Cene (na dan): 
+bungalov 4 osebe 		EUR 69
+bungalov 3 osebe 		EUR 53
+bungalov 2 osebi 		EUR 44
+Zajtrk: eur 4 na osebo na dan.
+
+___
+
+<b>PRIVATNE NASTAVITVE V Postojni in okolici </b>
+Nekaj primerov (več po povpraševanju):
+
+<b>Družina ČEHOVIN**, Jamska 21, Postojna</b>
+ 
+Cene (na dan): 
+BB 		EUR 29 na osebo v dvoposteljni sobi
+BB		EUR 39 na osebo v enoposteljni sobi
+BB		EUR 23 na osebo na pomožnem ležišču 
+Apartma: 	EUR 58 za 2 osebi ali EUR 73 za 3 osebe (brez zajtrka)
+
+___
+
+<b>APPARTMAJI "KRAŠNA" **, Kosovelova 8/1, 6230 Postojna</b>
+ 
+Cene (najem na dan): 
+Apartma 3 osebe: 		EUR 66
+Apartma 4 osebe:		EUR 95
+Apartma 7 oseb:		EUR 135
+
+___
+
+<b>TURISTIČNA KMETIJA HUDIČEVEC, Razdrto 1, Hruševje – samo z avtom!</b>
+
+
+Cene (na dan): 
+BB 		EUR 28 na osebo v dvoposteljni sobi
+BB		EUR 37 na osebo v enoposteljni sobi
+Apartma (6-9 oseb):   EUR 110 na noč (zajtrk:  EUR 5 na osebo na dan).
+
+___
+
+
+<b>TURISTIČNA KMETIJA PRI ANDREJEVIH, Narin 75, Narin – samo z avtom!</b>
+
+ 
+Cene (na dan): 
+BB 		EUR 29  na osebo v dvoposteljni sobi
+BB		EUR 38 na osebo v enoposteljni sobi
+
+___
+
+<b>Družina SANABOR, Reška 3, Prestranek – samo z avtom!</b>
+
+ 
+Cene (na dan): 
+BB 		EUR	29 na osebo v dvoposteljni sobi
+
+___
+
+
+REZERVACIJA
+
+<b>Legenda:</b> BB = postelja & zajtrk
+<b>Cene vključujejo vse dajatve!</b>
+
+<b>Plačilo:</b>
+* 25 % ob rezervaciji (bančno nakazilo, kreditna kartica: Matercard, Visa)
+* 75 % pred prihodom!
+
+<b>Odpoved:</b>
+do 30 dni pred prihodom		0%
+od 29 do 21 dni pred prihodom		30%
+od 21 do 15 dni pred prihodom		50%
+from 15 to 0 days prior arrival		100%
+
+___
+
+We look forward to welcoming you in our town.
+
+<b>e-mail:</b> "accomodation@kompas-postojna.si":mailto:accomodation@kompas-postojna.si
+
+Postojna, november 2014

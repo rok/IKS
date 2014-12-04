@@ -10,20 +10,14 @@ h2. Možnosti prehrane
 
 !../slike/food.jpg!
 
-<b>(1) Minutka</b>
-Prijetna restavracija kjer strežejo pice, testenine, dobro hrano in dnevne menije.
+<b>(1) Proteus</b>
+Obnovljena restavracija z vsemi vrstami hrane. Na glavnem trgu tik pod Inštitutom.
 
-<b>(2) Čuk</b>
-Restavracija v športnem parku z veliko prostora. Poleg pic postrežejo tudi s testeninami, tradicionalno domačo hrano, solatnim barom in pestrim dnevnim menijem.
-
-<b>(3) Bar Bor</b>
+<b>(2) Bar Bor</b>
 Tradicionalna domača hrana. Dobro in poceni.
 
-<b>(4) Šport hotel</b>
-Poleg prenočišča ponujajo tudi dnevne menije.
+<b>(3) Picerija Čuk</b>
+Restavracija v športnem parku z veliko prostora. Poleg pic postrežejo tudi s testeninami, tradicionalno domačo hrano, solatnim barom in pestrim dnevnim menijem.
 
-<b>(5) Špajza</b>
-Restavracija za tiste, ki uživajo v tišjem prijetnem okolju ter dobri hrani za zmerno ceno.
-
-<b>(6) Proteus</b>
-Obnovljena restavracija z vsemi vrstami hrane. Na glavnem trgu tik pod Inštitutom.
+<b>(4) Picerija Minutka</b>
+Picerija z ostalo in  "Balkansko" hrano.

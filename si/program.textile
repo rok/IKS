@@ -8,17 +8,40 @@ english-file: programme
 
 h2. Program
 
-|_. |_. 16. junij |_. 17. junij |_. 18. junij |_. 19. junij |_. 20. junij |
-| | PON | TOR | SRE | ČET | PET |
-| Dop. |-Prihod udeležencev
--Registracija
--Otvoritev dogodka
--Vabljeno predavanje
--Referati udeležencev predavanja | -Vabljeno predavanje
--Referati udeležencev | -Vabljeno predavanje
--Referati udeležencev | -Celodnevna ekskurzija | -Zaključek srečanja
--Tematska ekskurzija |
-| Pop. | -Predstavitev posterjev | -Tematska ekskurzija 
--Terenska predavanja | -Tematska ekskurzija 
--Terenska predavanja | -Celodnevna ekskurzija
--Večerni sprejem udeležencev | -Odhod udeležencev |
+|_. |_. 15. junij |_. 16. junij |_. 17. junij |_. 18. junij |_. 19. junij |_. 20. junij |
+| | PON | TOR | SRE | ČET | PET | SOB |
+| Dop. | - Prijava
+ - Otvoritev
+ *ZNANOST O JAMAH*
+ - Uvodna & vabljena predavanja 
+ - Predavanja udeležencev | - *ODPRTE FRONTE RAZISKOVANJ; VELIKI JAMSKI SISTEMI*
+ - Uvodna & vabljena predavanja 
+ - Predavanja udeležencev | *ZGODOVINA RAZISKOVANJA JAM V CENTRALNI EVROPI – »ALCADI«*
+ - Uvodna & vabljena predavanja 
+ - Predavanja udeležencev | -Celodnevno terensko delo “Klasični kras”: 
+Škocjanske jame, jamski vhodi do podzemne Reke,
+Velika jama v Briščikih (Grotta Gigante), izviri reke Timave | *UIS DAN*
+ - Turistični obisk  Postojnske jame 
+ - Uvodna & vabljena predavanja | - Sestanek UIS Biroja
+ - Možnost:
+obisk izbranih
+jam z lokalnimi jamarji (društva Jamarske zveze Slovenije) |
+| Pop. | - Predavanja udeležencev
+ - Predstavitev posterjev
+ - Skrivnosti krasa
+ - Sprejem na Inštitutu | - Terensko delo:
+Planinska jama, Rakov Škocjan, Cerkniško polje (vhod v Karlovice) | - Terensko delo: Vilenica | | - Predavanja udeležencev
+ - 50. obletnica UISa: proslava v Postojnski jami
+ - Banket pred jamo | - Sestanek UIS Biroja |
+
+*Uvodna predavanja*
+*Prof. Dr. Derek Ford*, Kanada: The four state model of meteoric water cave genesis and its integration with models of the development of plan patterns of passages
+*Andy Eavis*, UK: Explorations of big cave systems
+*Akad. Prof. Dr. Andrej Kranjc*, Slovenija: “Classical Karst” exploration history
+*Dr. Trevor Shaw*, UK: History of cave science 
+*Prof. Dr. Arrigo Cigna*, Italija: UIS history
+
+*Drugo*
+Vabljena predavanja
+Tematska predavanja
+Predstavitev posterjev

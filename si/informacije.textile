@@ -20,13 +20,25 @@ SI-6230 Postojna
 <b>Web:</b> "http://iks.zrc-sazu.si":http://iks.zrc-sazu.si
 
 <b>Kontaktna oseba:</b>
-Janez Mulec
+Nadja Zupan Hajna
 <b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
 
-<b>Šolo podpirajo:</b>
+*50. obletnica UISa:*
+Mednarodna speleološka zveza - UIS & Inštitut za raziskovanje krasa ZRC SAZU 
+Titov trg 2; SI-6230 Postojna, Slovenija
+
+*So-organizator 50. obletnice UISa:*
+Postojnska jama d.d.
+Jamska cesta 30, 6230 Postojna, Slovenija
+*Web:* "http://www.postojnska-jama.eu/":http://www.postojnska-jama.eu/
+
+*23. mednarodno krasoslovno šolo “Klasični kras” podpirajo:*
 * Slovenska Nacionalna komisija za UNESCO
 * Znanstvenoraziskovalni center SAZU
+* Slovenska akademija znanosti in umetnosti 
 * Občina Postojna
-* Postojnska jama d.d.
+* Park Škocjanske jame 
+* Grotta Gigante
+* Jamarska zveza Slovenije
 
 !../slike/KRI_building.jpg!

@@ -6,15 +6,26 @@ slovenian-file: tehnicne_informacije
 english-file: technical_information
 ---
 
-h2. Tehnične informacije
+h2. Tehnične & prijavne informacije
 
-Uradna jezika šole sta angleščina in slovenščina. 
+Uradna jezika na Šoli sta slovenščina in angleščina.
 
-Registracija je možna samo preko "spletnega obrazca":prijava_udelezenca.html. Pričela se bo 15. februarja in bo trajala do vključno 30. aprila 2014.
+Redna kotizacija *za ves teden (15. – 19. junij) je 150 EUR*.  Kotizacija za *mlade študente je 50 EUR* (zahtevano potrdilo; starost pod 30 let).
+Kotizacija za Šolo vsebuje: tiskani material, terenske ekskurzije, organiziran turistični obisk Postojnske jame, osvežitve med odmori, prisotnost na sprejemu na Inštitutu za raziskovanje krasa, proslavo 50. obletnice UISa v jami in banket. 
 
-Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo želeni način predstavitve (ustna predstavitev ali poster), vendar bo končno odločitev sprejel organizator šole. Povzetki bodo objavljeni skupaj z vodnikom po ekskurzijah in programom šole. Izbrani prispevki bodo lahko objavljeni v reviji "Acta Carsologica":http://carsologica.zrc-sazu.si/.
+Kotizacija samo za *»UIS DAN« (petek 19. junij) je 50 EUR* in vsebuje tiskan material, organiziran turistični obisk Postojnske jame, proslavo 50. obletnice UIS v jami in banket. V soboto, 20. junija pa bo ponujena možnost obiska  nekaterih jam pod vodstvom lokalnih jamarjev, ki so vključeni v jamarsko zvezo Slovenije (JZS).
 
-Kotizacija znaša 125 EUR, kar vključuje tiskano gradivo za šolo in ekskurzije, osvežilo med odmori in udeležbo na večernem sprejemu. Kotizacija za študente znaša 25 EUR. Kotizacija mora biti poravnana do 30. aprila 2014:
+
+Registracija je možna samo preko "spletnega obrazca":prijava_udelezenca.html in bo odprta od *15. decembra 2014* do *15. maja 2015 za šolo* in *do 1. junija 2015 za UIS dan.*
+
+__Prosimo, da se osebno prijavite, tudi če ste vabljeni predavatelj ali eden od organizatorjev, in si tako zagotovite PRIPONKO!__
+
+Zaradi *omejenega števila* mest v Kulturnem centru in v Jami,  vas prosimo, da se registrirate čim prej; ker *bomo po zapolnitvi zmogljivosti zaprli registracijo!* 
+
+Povzetke v angleščini sprejemamo ob registraciji. Udeleženci naj navedejo želeni način predstavitve (ustna predstavitev ali poster), vendar bo končno odločitev sprejel organizator šole. Povzetki bodo objavljeni skupaj s programom in vodnikom. Izbrani prispevki bodo lahko objavljeni v reviji Acta Carsologica:http://carsologica.zrc-sazu.si/.
+
+*Kotizacija mora biti poravnana do 15. maja 2015 za Šolo* in *do 1. junija 2015 za UIS dan!*
+Glede na visoke bančne dajatve, vam svetujemo, da plačate za več udeležencev skupaj, vendar prosim označite za koga je plačano: 
 
 div(bank). 
   IBAN: SI56 01100 6030347346
@@ -22,5 +33,7 @@ div(bank).
   Sklic na: 41139 – 22
   Naš naslov: ZRC SAZU, Novi trg 2, 1000 Ljubljana
   Naslov banke: BANKA SLOVENIJE, Slovenska cesta 35, SI-1000 Ljubljana, Slovenia
+  *Ob morebitnih problemih pri plačilu, nas prosim kontaktirajte na e-naslov:* "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
 
-Drugo obvestilo, ki bo vsebovalo podrobnejši program 22. Mednarodne krasoslovne šole, bo objavljeno 10. maja 2014.
+*OPOZORILO:*
+*Ni materiala za Šolo in ni vstopa na: ekskurzije, sprejem, proslavo in banket brez uradne PRIPONKE!!!*
