@@ -5,8 +5,10 @@ language: slovenian
 slovenian-file: index
 english-file: index
 ---
+<center>skupaj s</center>
 
 div(platnica). 
-  !../slike/platnica.jpg!
-  "Prvo obvestilo":1-obvestilo.html ("PDF":../datoteke/1-Obvestilo.pdf)
-  "Drugo obvestilo [PDF]":../datoteke/2-circular-Karstological-School-2014-SLO.pdf
+  <center>50. obletnico Mednarodne speleolo&#353;ke zveze - UIS</center>
+  <center><img src="../slike/50-uis.jpg" height=60px> <img src="../slike/postojnska-jama.jpg" height=60px></center>
+  !../slike/platnica-2015.jpg!
+  "Prvo obvestilo":../datoteke/1-obvestilo-MKS.pdf

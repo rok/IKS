@@ -8,22 +8,16 @@ english-file: places_to_eat
 
 h2. Places to eat
 
-!../slike/food.jpg!
+!../slike/postojna-hrana-2.jpg!
 
-<b>(1) Minutka</b>
-Nice restaurant with pizza, pasta, excellent food and daily menu.
+<b>(1) Proteus</b>
+Restaurant with all sorts of food and a daily menu. On Postojna’s main square, next to the Institute.  
 
-<b>(2) Čuk</b>
-Restaurant in the Sport park with plenty of space. Although known as pizzeria, they also serve good pasta, traditional local and "global" food, incl. salad bar and daily menu.
+<b>(2) Bar Bor</b>
+Traditional local daily meals. Good and cheap. On the corner of Postojna’s main square; across the street from the Hotel Kras.
 
-<b>(3) Bar Bor</b>
-Traditional local daily meals. Good and cheap.  
+<b>(3) Pizzeria Čuk</b>
+Located in the Sport Park. Although known as pizzeria, they also serve good pasta and other food, including salad bar and a daily menu.
 
-<b>(4) Šport hotel</b>
-Also serves daily meals.
-
-<b>(5) Špajza</b>
-Fot those looking for fine ambient and food for moderate price.
-
-<b>(6) Proteus</b>
-Renewed restaurant with all sorts of food. In the main square below the Instutute. 
+<b>(4) Pizzeria Minutka</b>
+Pizzeria with other items, “Balkan” food, and a daily menu.

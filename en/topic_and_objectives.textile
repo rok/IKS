@@ -1,35 +1,25 @@
 ---
 layout: default
-title: Namen in cilji
+title: Topic and Goals
 language: english
 slovenian-file: namen_in_cilji
 english-file: topic_and_objectives
 ---
 
-h2. Topic and objectives 
+h2. Topic and Goals
 
-22 ^nd^ Karstological School will serve as a forum to exchange ideas and experiences among professionals who deal with microorganisms on a daily base. During the meeting, a significant emphasis will be given to the need for holistic understanding of karst including geological, hydrological and ecological processes that are affected by the microbiota. Microbiologists will in the future gradually supplement new information which will serve for comprehensive understanding of underground processes.
+The International Karstological School "Classical Karst" has been conducted annually since 1993. Different aspects of karst studies are presented each year. The basic objectives are to present the state-of-the-art in the selected topic, and encourage discussions related to the school's topic through lectures, poster presentations and field trips in the Classical Karst of Slovenia.
 
-**The participants will get answers on the following questions:**
-* Why is important to study microbes in karst?
-* Which are natural processes in caves related to microbial metabolism?
-* What are sources of energy and nutrients in underground, and methods to reduce eutrophication in underground?
-* Which microorganisms are typical for subterranean aquatic and terrestrial habitats?
+The first days of the 23<sup>rd</sup> Karstological School will be devoted to the exploration and scientific study of caves. Caves play an important role in human history. They were used as shelters and dwellings by early people; they were places of anxiety, mystery, religion, fear, curiosity, adventure, and also knowledge. People have explored caves for thousands of years, but the first systematic exploration and realistic descriptions are from the 17<sup>th</sup> Century. In the 19<sup>th</sup> Century, when many of the natural sciences were forming, cave exploration by individuals and caving societies laid the foundations of speleology as we understand it today - where cave exploration, mapping and science work hand-in-hand for new, better, understanding of caves.
+ 
+Last day of the School (Friday) will be dedicated to the 50<sup>th</sup> Anniversary of International Union of Speleology - UIS. UIS was established during the 4<sup>th</sup> International Congress of Speleology, which was held in Ljubljana and Postojna in 1965. The UIS was officially founded during the Closing Ceremony of the Congress on September 16<sup>th</sup> in Ljubljana.
+ 
+We invite all speleologists, karstologists, experts and young scientists, students, cavers and all persons attracted by caves and karst to participate at this School.
 
-**School will be carried out in the form of:**
-* introductory invited lectures from various fields of cave microbiology,
-* selected oral presentations of the School participants,
-* poster presentations,
-* afternoon and whole-day excursions.
 
 **The topics of this year's School are:**
-* Microbial diversity in the underground
-* Geomicrobiology and ecological interactions in caves
-* Microbes and natural processes in the underground
-* Underground eutrophication
-* Caves as a source of new species of microbes
-* Microbes in caves related to biohazard
-
-**Who are the participants at the School:**
-Senior and junior researchers of karst, students, managers of karst resources and all those who are interested in karst as a natural phenomenon.
-
+* Cave science
+* Open exploration frontiers; big cave systems
+* History of cave exploration in Central Europe - "ALCADI"
+* History of the International Union of Speleology and the future of speleology
+* Other topics related to caves and karst 

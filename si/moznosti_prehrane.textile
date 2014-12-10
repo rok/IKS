@@ -8,7 +8,7 @@ english-file: places_to_eat
 
 h2. Možnosti prehrane
 
-!../slike/food.jpg!
+!../slike/postojna-hrana-2.jpg!
 
 <b>(1) Proteus</b>
 Obnovljena restavracija z vsemi vrstami hrane. Na glavnem trgu tik pod Inštitutom.

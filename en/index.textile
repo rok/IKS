@@ -5,8 +5,10 @@ language: english
 slovenian-file: index
 english-file: index
 ---
- 
+<center>combined with the</center>
+
 div(platnica). 
-  !../slike/platnica.jpg!
-  "First Circular":1st-circular.html ("PDF":../datoteke/1st-Circular.pdf)
-  "Second Circular [PDF]":../datoteke/2-circular-Karstological-School-2014.pdf
+  <center>50<sup>th</sup> Anniversary of the International Union of Speleology - UIS </center>
+  <center><img src="../slike/50-uis.jpg" height=60px> <img src="../slike/postojnska-jama.jpg" height=60px></center>
+  !../slike/platnica-2015.jpg!
+  "First Circular":../datoteke/1st-Circulart-23rd-IKS.pdf

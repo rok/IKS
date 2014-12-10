@@ -26,7 +26,7 @@ e-mail:  "accommodation@kompas-postojna.si":mailto:accommodation@kompas-postojna
 
 
 <b>HOTEL SPORT***, Kolodvorska Ulica 1, Postojna</b>
-
+<img src="../slike/hotel-sport-1.jpg"  height=150> <img src="../slike/hotel-sport-2.jpg"  height=150>
 Cene (na dan): 
 BB 		EUR 38 na osebo v dvoposteljni sobi 
 BB		EUR 53 na osebo v enoposteljni sobi
@@ -34,7 +34,7 @@ BB		EUR 53 na osebo v enoposteljni sobi
 ___
 
 <b>GARNI HOTEL KRAS****, Tržaška cesta 1, Postojna, Slovenia</b>
-
+<img src="../slike/hotel-kras-1.jpg"  height=150> <img src="../slike/hotel-kras-2.jpg"  height=150>
 Cene (na dan): 
 BB 		EUR 48 na osebo v dvoposteljni sobi
 BB		EUR 67 na osebo v enoposteljni sobi
@@ -42,7 +42,7 @@ BB		EUR 67 na osebo v enoposteljni sobi
 ___
 
 <b>SOBE IN APARTMAJI PROTEUS****,  Postojna</b>
-
+<img src="../slike/rooms-proteus.jpg"  height=150>
 Cene (na dan): 
 BB 		EUR  47 na osebo v dvoposteljni sobi
 BB		EUR  68 na osebo v enoposteljni sobi.
@@ -52,8 +52,7 @@ Apartma 6 oseb: 	EUR 182 na noč (zajtrk: eur 7 na osebo).
 ___
 
 <b>HOSTEL PROTEUS, Postojna</b>
-
- 
+<img src="../slike/hotel-proteus.jpg"  height=150>  
 Cene (na dan): 
 BB 		EUR 23 na osebo v dvoposteljni sobi
 BB		EUR 30 na osebo v enoposteljni sobi
@@ -61,8 +60,7 @@ BB		EUR 30 na osebo v enoposteljni sobi
 ___
 
 <b>Kamp PIVKA JAMA, Postojna – samo z avtom!</b>
-
- 
+<img src="../slike/camping-pivka-jama.jpg"  height=150>   
 Cene (na dan): 
 bungalov 4 osebe 		EUR 69
 bungalov 3 osebe 		EUR 53
@@ -75,7 +73,7 @@ ___
 Nekaj primerov (več po povpraševanju):
 
 <b>Družina ČEHOVIN**, Jamska 21, Postojna</b>
- 
+ <img src="../slike/family-cehovin.jpg"  height=150> 
 Cene (na dan): 
 BB 		EUR 29 na osebo v dvoposteljni sobi
 BB		EUR 39 na osebo v enoposteljni sobi
@@ -85,7 +83,7 @@ Apartma: 	EUR 58 za 2 osebi ali EUR 73 za 3 osebe (brez zajtrka)
 ___
 
 <b>APPARTMAJI "KRAŠNA" **, Kosovelova 8/1, 6230 Postojna</b>
- 
+<img src="../slike/appartments-krasna.jpg"  height=150> 
 Cene (najem na dan): 
 Apartma 3 osebe: 		EUR 66
 Apartma 4 osebe:		EUR 95
@@ -94,8 +92,7 @@ Apartma 7 oseb:		EUR 135
 ___
 
 <b>TURISTIČNA KMETIJA HUDIČEVEC, Razdrto 1, Hruševje – samo z avtom!</b>
-
-
+<img src="../slike/kmetija-hudicevec-1.jpg"  height=150> <img src="../slike/kmetija-hudicevec-2.jpg"  height=150> 
 Cene (na dan): 
 BB 		EUR 28 na osebo v dvoposteljni sobi
 BB		EUR 37 na osebo v enoposteljni sobi
@@ -103,10 +100,8 @@ Apartma (6-9 oseb):   EUR 110 na noč (zajtrk:  EUR 5 na osebo na dan).
 
 ___
 
-
 <b>TURISTIČNA KMETIJA PRI ANDREJEVIH, Narin 75, Narin – samo z avtom!</b>
-
- 
+<img src="../slike/kmetija-pri-andrejevih-1.jpg"  height=150> <img src="../slike/kmetija-pri-andrejevih-2.jpg"  height=150>
 Cene (na dan): 
 BB 		EUR 29  na osebo v dvoposteljni sobi
 BB		EUR 38 na osebo v enoposteljni sobi
@@ -114,8 +109,7 @@ BB		EUR 38 na osebo v enoposteljni sobi
 ___
 
 <b>Družina SANABOR, Reška 3, Prestranek – samo z avtom!</b>
-
- 
+<img src="../slike/family-sanabor.jpg"  height=150>
 Cene (na dan): 
 BB 		EUR	29 na osebo v dvoposteljni sobi
 
@@ -139,7 +133,6 @@ from 15 to 0 days prior arrival		100%
 
 ___
 
-We look forward to welcoming you in our town.
 
 <b>e-mail:</b> "accomodation@kompas-postojna.si":mailto:accomodation@kompas-postojna.si
 

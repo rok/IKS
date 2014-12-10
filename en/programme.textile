@@ -6,19 +6,41 @@ slovenian-file: program
 english-file: programme
 ---
 
-h2. Program outline
+h2. Program Outline
 
-|_. |_. 16. June |_. 17. June |_. 18. June |_. 19. June |_. 20. June |
-| | MON | TUE | WED | THU | FRI |
-|Morning|-Arrival of participants
-&#8209;Registration
--Opening event
--Invited lecture
--Lectures of participants|-Invited lecture
--Lectures of participants|-Invited lecture
--Lectures of participants|-Whole-day excursion|-Closing of meeting
--Thematic excursion|
-|Afternoon|-Poster session|-Thematic lectures
--Field trip|-Thematic lectures
--Field trip|-Whole-day excursion
--Evening reception of participants|-Departure of participants|
+|_. |_. June 15. |_. June 16. |_. June 17. |_. June 18. |_. June 19. |_. June 20. |
+| | MON | TUE | WED | THU | FRI | SAT |
+| Morning | - Registration
+ - Opening of event
+*CAVE SCIENCE*
+ - Key & invited lectures
+ - Lectures of participants | - *OPEN EXPLORATION FRONTIERS; BIG CAVE SYSTEMS*
+-Key & invited lectures
+-Lectures of participants | *HISTORY OF CAVE EXPLORATION IN CENTRAL EUROPE - "ALCADI"*
+-Key & invited lectures
+-Lectures of participants | - Whole-day field trip to "Classical Karst" caves:
+&#352;kocjanske jame, cave entrances to underground river Reka,
+Grotta Gigante, springs of river Timava | *UIS DAY*
+-Tourist visit of cave Postojnska jama 
+-Key & invited lectures | - UIS Bureau meeting
+ - Optional: free visits to "wild" caves with cavers  of JZS (Speleological Association of Slovenia) |
+| Afternoon | - Lectures of participants
+ - Poster session
+ - Karst mysteries
+ - Institute reception | - Field trip: Planinska jama cave, Rakov &#352;kocjan, Cerkni&#353;ko polje (entrance to cave Karlovice)  | - Field trip: Vilenica | | - Lectures of participants
+ - UIS 50th Anniversary: celebration in the cave Postojnska jama
+ - Banquet in front of the cave | - UIS Bureau meeting |
+
+*Keynote lectures*
+*Prof. Dr. Derek Ford*, Canada: The four state model of meteoric water cave genesis and its integration with models of the development of plan patterns of passages
+*Andy Eavis*, UK: Explorations of big cave systems
+*Acad. Prof. Dr. Andrej Kranjc*, Slovenia: "Classical Karst" exploration history
+*Dr. Trevor Shaw*, UK: History of cave science 
+*Prof. Dr. Arrigo Cigna*, Italy: UIS history
+
+*Other*
+Invited lectures
+Thematic lectures
+Poster presentations
+
+*Detailed program will be available on website from 1 June 2015.*

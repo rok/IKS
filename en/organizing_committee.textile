@@ -5,34 +5,46 @@ language: english
 slovenian-file: organizacijski_odbor
 english-file: organizing_committee
 ---
+
+h2. Organizers
+
+*International Karstological School "Classical Karst":*
+Karst Research Institute ZRC SAZU 
+Titov trg 2, SI-6230 Postojna, Slovenia
+*T:* +386 5 700 1900
+*F:* +386 5 700 1999
+*E:* "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+*Web:* "http://iks.zrc-sazu.si":http://iks.zrc-sazu.si
+
+*UIS 50<sup>th</sup> Anniversary:*
+International Union of Speleology - UIS & Karst Research Institute ZRC SAZU 
+Titov trg 2; SI-6230 Postojna, Slovenia
+
+*Co-organizer of UIS 50<sup>th</sup> Anniversary:*
+Management of Postojnska jama d.d.
+Jamska cesta 30, 6230 Postojna, Slovenia
+*Web:* "http://www.postojnska-jama.eu/":http://www.postojnska-jama.eu/
+
+
+*The 23<sup>rd</sup> International Karstological School “Classical Karst” is supported by:*
+* Slovenian National Commission for UNESCO
+* Scientific Research Centre of the Slovenian Academy of Sciences and Arts
+* Slovenian Academy of Sciences and Arts
+* Municipality of Postojna
+* Škocjanske jame Park
+* Grotta Gigante
+* JZS – Speleological Association of Slovenia
+
+*Contact person:*
+Nadja Zupan Hajna
+*E:* "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
+
 !>../slike/sodelavci.jpg!
 
-h2. Organizing committee
-* Franci Gabrovšek
-* Petra Gostinčar
-* Martin Knez
-* Janja Kogovšek
-* Peter Kozel
-* Andrej Mihevc
-* Janez Mulec
-* Bojan Otoničar
-* Metka Petrič
-* Tanja Pipan
-* Mitja Prelovšek
-* Tadej Slabe
-* Stanka Šebela
-* Nadja Zupan Hajna
-* Nataša Viršek Ravbar
+*Organizing committee*
+
+Nadja Zupan Hajna, Andrej Mihevc, Franci Gabrovšek, Petra Gostinčar, Zdeněk Motyčka, Matej Blatnik, Martin Knez, Peter Kozel, Janez Mulec, Bojan Otoničar, Metka Petrič, Tanja Pipan, Mitja Prelovšek, Tadej Slabe, Stanka Šebela, Nataša Viršek Ravbar
 
 
-h2. Programme committee
-
-* Alica Chroňáková
-* Marjutka Hafner 
-* Václav Krištůfek
-* Alenka Mauko 
-* Janez Mulec
-* Colin Murrell
-* Lejla Pašić
-* Blaž Stres
-* Annette Summers Engel
+*Program committee*
+Nadja Zupan Hajna, Andrej Mihevc, Andrej Kranjc, Franci Gabrovšek, Pavel Bosák

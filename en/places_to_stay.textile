@@ -6,77 +6,154 @@ slovenian-file: moznosti_nastanitve
 english-file: places_to_stay
 ---
 
-h2. Places to stay - Accomodation possibilities
+h2. Transportation from Airports
 
-The participants (except invited) are asked to book their rooms in hotels or private rooms directly by themselves. For intormation and reservations you can contact the following addressses:
+You can book your transportation from various airports to Postojna and back through the travel agency Kompas Postojna, which offers competitive prices. For more information, contact the agency by e-mail: "accommodation@kompas-postojna.si":mailto:accommodation@kompas-postojna.si
 
-!../slike/namestitev.jpg!
+h2. Accommodation for participants
 
-<b>(1) Hotel Kras****</b>
-Tržaška cesta 1
-SI-6230 Postojna
-Tel: +386 5 700 23 00
-Fax: +386 5 700 23 56
-E-mail: "booking@hotel-kras.si":mailto:booking@hotel-kras.si
-Web page: "http://www.hotel-kras.si":http://www.hotel-kras.si/index.php?lang=en
+The participants (except invited lecturers and UIS Bureau members) are asked to book their accommodations through the travel agency Kompas Postojna. The *agency has special prices* for participants of the UIS Anniversary and School if you book your accommodations by *1 February 2015.*
 
-<b>(2) Sport hotel & restaurant***</b>
-Kolodvorska ulica 1
-SI-6230 Postojna
-Tel: +386 5 720 22 44
-Fax: +386 5 720 22 40
-E-mail: "info@sport-hotel.si":mailto:info@sport-hotel.si
-Web page: "http://www.sport-hotel.si":http://www.sport-hotel.si/eng/
+Dear guests!
+The 23rd International Karstological School »Classical Karst« will take place in Postojna - the centre of the Karst region.  Our travel agency Kompas Postojna, d.o.o. offers the following accommodation in Postojna and its surroundings. Should you have any further questions, please do not hesitate to contact us. Our staff will try to meet all your needs and wishes.
 
-<b>(3) Hotel epicenter***</b>
-Kazarje 10
-SI-6230 Postojna
-Tel: +386 5 700 22 00
-Fax: +386 5 700 22 44
-E-mail: "booking@epicenter-on.net":mailto:booking@epicenter-on.net
-Web page: "http://www.hotel-epicenter.si":http://www.hotel-epicenter.si/index.php/en.html
+For reservations and information please contact us:
 
-<b>(4) Youth Hostel Proteus</b>
-Tržaška cesta 36
-SI-6230 Postojna
-Tel: +386 5 726 52 91
-Fax: +386 5 726 22 20
-E-mail: "recepcija.sgls@guest.arnes.si":mailto:recepcija.sgls@guest.arnes.si
-Web page: "http://www.hihostels.com/dba/hostel092539.en.htm?linkid=980018":http://www.hihostels.com/dba/hostel092539.en.htm?linkid=980018
+KOMPAS POSTOJNA, d.o.o., travel agency
+Titov trg 2a, Postojna, Slovenia
+phone: (00) 386 5 7211480
+fax: 	(00) 386 5 7211487
+contact persons:  Masa, Azra, Mateja
+*e-mail: "accommodation@kompas-postojna.si":mailto:accommodation@kompas-postojna.si*
 
-<b>(6) Postojnska jama</b> (the cave)
-Jamska cesta 30 
-SI - 6230 Postojna
-Tel:+386 5 700 01 00
-Fax: +386 5 700 01 30
-E-mail: "info@postojnska-jama.si":mailto:info@postojnska-jama.si
-Web page: "http://www.postojnska-jama.si/eng/":http://www.postojnska-jama.si/eng/
+You are most welcome in our town.
 
-<b>Camping Pivka jama***</b>
-(5 km from Postojna; camp and bungalows)
-Veliki Otok 50
-SI-6230 Postojna
-Tel: +386 5 720 39 93
-Fax: +386 5 726 53 48
-E-mail: "avtokamp.pivka.jama@siol.net":mailto:avtokamp.pivka.jama@siol.net
-Web page: "http://www.venus-trade.si":http://www.venus-trade.si/eng/index.html
+___
 
-<b>Speleocamp Laze</b>
-(15 km from Postojna; camp, apartments and group room)
-Laze 6b
-SI-1370 Logatec
-Tel: +386 1 754 47 60
-E-mail: "info@speleocamp.com":mailto:info@speleocamp.com
-Web page: "http://www.speleocamp.com":http://www.speleocamp.com
+<b>HOTEL SPORT***, Kolodvorska Ulica 1, Postojna</b>
+<img src="../slike/hotel-sport-1.jpg"  height=150> <img src="../slike/hotel-sport-2.jpg"  height=150>
+HOTEL SPORT offers modern & comfortable accommodation in a 3 star hotel. Together there are 130 beds. It is located near the centre of Postojna town and is only 1 km from the natural attraction Postojna cave. Hotel is furnished and decorated in traditional style, like it used to be in its days of glory. It is bike friendly which means it offers all the amenities necessary to the cyclists.
+Prices (per day): 
+BB 		EUR 38 per person in double room
+BB		EUR 53 per person in single room 
 
-<hr />
+___
 
-Additional information about Postojna and private rooms:
+<b>GARNI HOTEL KRAS****, Tržaška cesta 1, Postojna, Slovenia</b>
+<img src="../slike/hotel-kras-1.jpg"  height=150> <img src="../slike/hotel-kras-2.jpg"  height=150>
+Modern and exclusively decorated hotel reflects its prestige in immediate vicinity of a world famous Postojna cave. It is situated on the main square of Postojna, just opposite the Karst Research Institute. Kras Hotel offers accommodation in 24 double-bedded rooms. All rooms are equipped with air conditioning, LCD cable television, telephone, wireless internet, mini bar and safe. The hotel offers its guests the use of shoes cleaning machine, garage under video surveillance.
+Prices (per day): 
+BB 		EUR 48 per person in double room
+BB		EUR 67 per person in single room
 
-<b>(5) Kompas Postojna, turistična agencija, d.o.o.</b>
-Titov trg 2a
-SI-6230 Postojna
-Tel: +386 5 721 14 80
-Fax: +386 5 721 14 87
-E-mail: "info@kompas-postojna.si":mailto:info@kompas-postojna.si
-Web page: "http://www.kompas-postojna.si":http://www.kompas-postojna.si/html/lang.html#fragment-1
+___
+
+<b>ROOMS AND APPARTMENTS PROTEUS****, center of Postojna</b>
+<img src="../slike/rooms-proteus.jpg"  height=150>
+Located on the main square of Postojna, right next to the old town, Rooms and Apartments Proteus are set just 500 metres from the famous Postojna Cave and 50 m from the Karst Research Institute. It offers an-on site restaurant serving local and international cuisine and air-conditioned accommodation with free Wi-Fi. All accommodation units come with a flat-screen cable TV and a private bathroom with a hairdryer. 
+
+They offer 2 apartments for 4 and 6 persons    and 13 rooms (double,  triple, quadruple).
+Prices (per day): 
+BB 		EUR  47 per person in double room
+BB		EUR  68 per person in single room.
+Apartment for 4 pax: 	EUR 125 per night (supplement for breakfast: eur 7 per person).
+Apartment for 6 pax: 	EUR 182 per night (supplement for breakfast: eur 7 per person).
+
+___
+
+<b>HOSTEL PROTEUS in Postojna</b>
+<img src="../slike/hotel-proteus.jpg"  height=150> 
+It is situated 500m from the centre of Postojna, in midst of a huge park with more than a hundred kinds of various trees and bushes. It’s in the dormitory building of the High school for foresters and woodworkers in Postojna. Rooms in Hostel Proteus Postojna share two or three beds and have common bathrooms. 
+Prices (per day): 
+BB 		EUR 23 per person in twin room 
+BB		EUR 30 per person in single room
+
+___
+
+<b>CAMPING PIVKA JAMA, Postojna – by car only!</b>
+<img src="../slike/camping-pivka-jama.jpg"  height=150>  
+Tourist resort  - camping Pivka jama is situated 4 km from Postojna. Set in a splendid spruce forest just beside the open mouth of the Pivka Cave, cosy bungalows and a nicely arranged campground can welcome as much as 700 visitors. We can offer 15 bungalows (max. for 4 persons).
+Prices (per night): 
+bungalow for 4 persons 		EUR 69
+bungalow for 3 persons 		EUR 53
+bungalow for 2 persons 		EUR 44
+Supplement for breakfast: eur 4 per person per day.
+
+___
+
+<b>PRIVATE ACCOMODATION in Postojna and its surrounding</b>
+
+We offer a wide variety of private accommodation in Postojna and its surroundings. We will try to meet all your wishes. *For example (but we have also other private accommodation):*
+
+___
+
+<b>FAMILY ČEHOVIN**, Jamska 21, Postojna, Slovenia</b>
+<img src="../slike/family-cehovin.jpg"  height=150> 
+The renovated bourgeois house is located on half way between the centre of Postojna (500 m) and the world famous Postojna Cave (500 m). They offer: 3 triple (double bed + additional bed), 1 twin, 1 double, 1 apartment for 3 persons.
+Prices (per day): 
+BB 		EUR 29 per person in double room
+BB		EUR 39 per person in single room
+BB		EUR 23 per person on additional bed
+Apartment: 	EUR 58 for 2 pax or  EUR 73 for 3 persons (without breakfast)
+
+___
+
+<b>APPARTMENTS "KRAŠNA" **, Kosovelova 8/1, 6230 Postojna</b>
+<img src="../slike/appartments-krasna.jpg"  height=150> 
+Apartments Krašna offers free Wi-Fi, free parking and cable TV in all its accommodation units. It is located 600 m from the town centre and the impressive Postojna Cave, in an area known for marked cycling and hiking routes. Each apartment comes with a private bathroom with shower. Kitchen facilities include a dining area and fridge. They offer 3 apartments.
+Prices (rent per day): 
+Apartment for 3 persons: 		EUR 66
+Apartment for 4 persons:		EUR 95
+Apartment for 7 persons:		EUR 135
+
+___
+
+<b>TURISTIČNA KMETIJA HUDIČEVEC (HUDIČEVEC TOURIST FARM), Razdrto 1, Hruševje – by car only!</b>
+<img src="../slike/kmetija-hudicevec-1.jpg"  height=150> <img src="../slike/kmetija-hudicevec-2.jpg"  height=150> 
+Just 10 km out of Postojna you can find a very friendly Hudičevec tourist farm. They offer 2 apartments for 6-9 persons and 7 rooms (2 double, 2 triple, room with a bunk bed and 2 quadruple with bunk bed).
+Prices (per day): 
+BB 		EUR 28 per person in double room
+BB		EUR 37 per person in single room
+Apartment (6-9 persons):   EUR 110 per night (supplement for breakfast:  EUR 5 per person per day).
+
+___
+
+<b>TURISTIČNA KMETIJA PRI ANDREJEVIH (ANDREJEVI TOURIST FARM), Narin 75, Narin – by car only!</b>
+<img src="../slike/kmetija-pri-andrejevih-1.jpg"  height=150> <img src="../slike/kmetija-pri-andrejevih-2.jpg"  height=150>
+The farm Pri Andrejevih covers 12 hectares of meadows and pastures, including some fields and forests. It is situated app. 17 km from Postojna. In the production of food they follow the standards for organic farming. They are famous for their pršut (prosciutto) in wine, veal stew, roast meat, typical Slovene food, delicious desserts... They offer 6 rooms (2 double, 4 quadruple (double bed + bunk bed).
+Prices (per day): 
+BB 		EUR 29 per person in double room
+BB		EUR 38 per person in single room
+
+___
+
+
+<b>FAMILY SANABOR, Reška 3, Prestranek, 4 km from Postojna centre – by car only!</b>
+<img src="../slike/family-sanabor.jpg"  height=150> 
+Set 6 km from Postojna Cave, Guesthouse Sanabor offers rooms and apartments with cable TV and free Wi-Fi. It is located on the main road connecting Ljubljana and Rijeka. Free on-site parking is provided. All units provide a desk and a wardrobe. Featuring a shower, private bathrooms also come with a hairdryer and towels. 
+Prices (per day): 
+BB 		EUR	29 per person in double room
+
+___
+
+<b>BOOKING</b>
+
+<b>Legend:</b> BB = bed and breakfast
+<b>Prices include all the taxes!</b>
+
+<b>Payment:</b> 	25 % at reservation (bank transfer, credit card: Matercard, Visa)
+		75 % before arrival!
+
+<b>Cancellation policy:</b>
+from 30 days prior arrival		0%
+from 29 to 21 days prior arrival		30%
+from 21 to 15 days prior arrival		50%
+from 15 to 0 days prior arrival		100%
+
+___
+
+We look forward to welcoming you in our town.
+
+<b>e-mail: "accomodation@kompas-postojna.si":mailto:accomodation@kompas-postojna.si</b>
+
+Postojna, November 2014.

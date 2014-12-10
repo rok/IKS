@@ -9,10 +9,10 @@ english-file: general_information
 h2. General information
 
 *Organizer*
-Karst Research Institute ZRC SAZU
-Titov trg 2
-SI-6230 Postojna
-Slovenia
+Karst Research Institute
+ZRC SAZU
+Titov trg 2, 
+SI-6230 Postojna, Slovenia
 
 <b>T:</b> +386 5 700 1900
 <b>F:</b> +386 5 700 1999
@@ -20,13 +20,25 @@ Slovenia
 <b>Web:</b> "http://iks.zrc-sazu.si":http://iks.zrc-sazu.si
 
 <b>Contact person:</b>
-Janez Mulec
+Nadja Zupan Hajna
 <b>E:</b> "iks@zrc-sazu.si":mailto:iks@zrc-sazu.si
 
-<b>The school is supported by:</b>
+*UIS 50<sup>th</sup> Anniversary:*
+International Union of Speleology - UIS & Karst Research Institute ZRC SAZU 
+Titov trg 2; SI-6230 Postojna, Slovenia
+
+*Co-organizer of UIS 50<sup>th</sup> Anniversary:*
+Management of Postojnska jama d.d.
+Jamska cesta 30, 6230 Postojna, Slovenia
+*Web:* "http://www.postojnska-jama.eu/":http://www.postojnska-jama.eu/
+
+*The 23<sup>rd</sup> International Karstological School "Classical Karst" is supported by:</b>*
 * Slovenian National Commission for UNESCO
 * Scientific Research Centre of the Slovenian Academy of Sciences and Arts
+* Slovenian Academy of Sciences and Arts
 * Municipality of Postojna
-* Postojnska jama d.d.
+* Škocjanske jame Park
+* Grotta Gigante
+* JZS - Speleological Association of Slovenia
 
 !../slike/KRI_building.jpg!
