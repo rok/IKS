@@ -12,13 +12,15 @@ h2. Archive of the past karstological schools
 * **2014 - Karst and microorganisms**
 <a href="../datoteke/GuideBook_2014.pdf">Program, guide book and abstracts (6,2 MB)</a>
 * **2013 - Hypogene speleogenesis (between theory and reality…)**
-<a href="../datoteke/GuideBook_2013.pdf">GuideBook - General information, programme, field trips, abstracts (8,7 MB)</a>
+<a href="../datoteke/GuideBook_2013.pdf">Guide Book - General information, programme, field trips, abstracts (8,7 MB)</a>
 * **2012 - Karst forms and processes**
-<a href="../datoteke/GuideBook_2012.pdf">GuideBook - General information, programme, field trips, abstracts (5,3 MB)</a>
+<a href="../datoteke/GuideBook_2012.pdf">Guide Book - General information, programme, field trips, abstracts (5,3 MB)</a>
 * **2011 – Karst Underground Protection**
-<a href="../datoteke/Booklet_2011-ENG.pdf">Booklet - General information, programme, field trips, abstracts (2,3 MB)</a>
+<a href="../datoteke/Booklet_2011-ENG.pdf">Guide Book - General information, programme, field trips, abstracts (2,3 MB)</a>
+<a href="../datoteke/Protection-of-the-underground-karst.pdf">Protection of the underground karst</a>
 * **2010 - Dinaric Karst**
-<a href="../datoteke/Booklet_2010.pdf">Booklet - General information, programme, field trips, abstracts (7.2 MB)</a>
+<a href="../datoteke/Booklet_2010.pdf">Guide Book - General information, programme, field trips, abstracts (7.2 MB)</a>
+<a href="../datoteke/Introduction-To-The-Dinaric-Karst.pdf">Introduction to the Dinaric Karst</a>
 * **2009 - Cave climate**
 <a href="../datoteke/Abstracts_2009.pdf">Abstracts (0.9 MB)</a>
 <a href="../datoteke/GuideBook_2009.pdf">Guide Book (6.1 MB)</a>
@@ -35,16 +37,24 @@ h2. Archive of the past karstological schools
 * **2005 - Karst in various rocks**
 <a href="../datoteke/GuideBook_2005.pdf">Guide Book (9.9 MB)</a>
 * **2004 - Dating of karst sediments**
-* **2002 - Types of karst**
+<a href="../datoteke/IKS-12-Guide-book-2004.pdf">Guide Book (4,5 MB)</a>
 * **2003 - Karst terminology**
+* **2002 - Types of karst**
 * **2001 - Contact karst**
-<a href="../datoteke/Booklet_2001.pdf">Booklet (Programme, field trips, abstracts - 3,1 MB)</a>
+<a href="../datoteke/IKS-09-Guide-book-2001.pdf">Guide Book - Programme, field trips, abstracts (7,7 MB)</a>
 * **2000 - Collapse dolines**
+<a href="../datoteke/IKS-08-Guide-book-2000.pdf">Guide Book (13,6 MB)</a>
 * **1999 - Roofles caves**
+<a href="../datoteke/IKS-07-Guide-book-1999.pdf">Guide Book (18,3 MB)</a>
 * **1998 - Alpine karst**
-* **1996 - Shafts**
+<a href="../datoteke/IKS-06-Guide-book-1998.pdf">Guide Book (11,4 MB)</a>
 * **1997 - Cave systems**
+<a href="../datoteke/IKS-05-Guide-book-1997.pdf">Guide Book (14,3 MB)</a>
+* **1996 - Shafts**
+<a href="../datoteke/IKS-04-Guide-book-1996.pdf">Guide Book (5,4 MB)</a>
 * **1995 - Dolines**
 * **1994 - Poljes**
+<a href="../datoteke/IKS-02-Guide-book-1994.pdf">Guide Book (6,5 MB)</a>
 * **1993 - Classical karst**
+<a href="../datoteke/IKS-01-Guide-book-1993.pdf">Guide Book (5,1 MB)</a>
 </div>

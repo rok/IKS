@@ -10,15 +10,17 @@ h2. Arhiv preteklih krasoslovnih šol
 
 <div id="arhiv">
 * **2014 - Kras in mikroorganizmi**
-<a href="../datoteke/GuideBook_2014.pdf">Program, vodnik in povzetki (6,2 MB)</a>
+<a href="../datoteke/GuideBook_2014.pdf">Vodnik, program in povzetki (6,2 MB)</a>
 * **2013 - Hipogena speleogeneza (med teorijo in resničnostjo…)**
 <a href="../datoteke/GuideBook_2013.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (8,7 MB)</a>
 * **2012 - Kraške oblike in procesi**
 <a href="../datoteke/GuideBook_2012.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (5,3 MB)</a>
 * **2011 - Varovanje podzemnega krasa**
 <a href="../datoteke/Booklet_2011-SLO.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (2,3 MB)</a>
+<a href="../datoteke/Protection-of-the-underground-karst.pdf">Protection of the underground karst</a>
 * **2010 - Dinarski kras**
 <a href="../datoteke/Booklet_2010.pdf">Vodnik po Krasoslovni šoli, ekskurzijah in povzetkih prispevkov (7,2 MB)</a>
+<a href="../datoteke/Introduction-To-The-Dinaric-Karst.pdf">Introduction to the Dinaric Karst</a>
 * **2009 - Jamska klima**
 <a href="../datoteke/Abstracts_2009.pdf">Povzetki prispevkov (0,9 MB)</a>
 <a href="../datoteke/GuideBook_2009.pdf">Vodnik (6,1 MB)</a>
@@ -35,16 +37,24 @@ h2. Arhiv preteklih krasoslovnih šol
 * **2005 - Kras v različnih kamninah**
 <a href="../datoteke/GuideBook_2005.pdf">Vodnik (9,9 MB)</a>
 * **2004 - Datiranje kraških sedimentov**
+<a href="../datoteke/IKS-12-Guide-book-2004.pdf">Vodnik (4,5 MB)</a>
 * **2003 - Kraška terminologija**
 * **2002 - Tipi krasa**
 * **2001 - Kontakti kras**
-<a href="../datoteke/Booklet_2001.pdf">Program, vodnik po ekskurzijah in povzetkih prispevkov (3,1 MB)</a>
+<a href="../datoteke/IKS-09-Guide-book-2001.pdf">Vodnik po ekskurzijah, program in povzetkih prispevkov (7,7 MB)</a>
 * **2000 - Udornice**
+<a href="../datoteke/IKS-08-Guide-book-2000.pdf">Vodnik (13,6 MB)</a>
 * **1999 - Brezstrope jame**
+<a href="../datoteke/IKS-07-Guide-book-1999.pdf">Vodnik (18,3 MB)</a>
 * **1998 - Alpski kras**
+<a href="../datoteke/IKS-06-Guide-book-1998.pdf">Vodnik (11,4 MB)</a>
 * **1997 - Jamski sistemi**
+<a href="../datoteke/IKS-05-Guide-book-1997.pdf">Vodnik (14,3 MB)</a>
 * **1996 - Brezna**
+<a href="../datoteke/IKS-04-Guide-book-1996.pdf">Vodnik (5,4 MB)</a>
 * **1995 - Vrtače**
 * **1994 - Polja**
+<a href="../datoteke/IKS-02-Guide-book-1994.pdf">Vodnik (6,5 MB)</a>
 * **1993 - Klasični kras**
+<a href="../datoteke/IKS-01-Guide-book-1993.pdf">Vodnik (5,1 MB)</a>
 </div>
