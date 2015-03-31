@@ -11,4 +11,7 @@ div(platnica).
   <center>50. obletnico Mednarodne speleolo&#353;ke zveze - UIS</center>
   <center><img src="../slike/50-uis.jpg" height=60px> <img src="../slike/postojnska-jama.jpg" height=60px></center>
   !../slike/platnica-2015.jpg!
+  <center>Častni pokrovitelj slavnostne prireditve je Predsednik Republike Slovenije gospod Borut Pahor.</center>
   "Prvo obvestilo":../datoteke/1-obvestilo-MKS.pdf
+  
+  <center>Rok za oddajo povzetkov je 10. maj 2015.</center>
