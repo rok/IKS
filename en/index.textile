@@ -10,5 +10,8 @@ english-file: index
 div(platnica). 
   <center>50<sup>th</sup> Anniversary of the International Union of Speleology - UIS </center>
   <center><img src="../slike/50-uis.jpg" height=60px> <img src="../slike/postojnska-jama.jpg" height=60px></center>
+  <center>Celebration is under the honorary patronage of his Excellency Mr. Borut Pahor, the President of the Republic of Slovenia.</center>
   !../slike/platnica-2015.jpg!
   "First Circular":../datoteke/1st-Circulart-23rd-IKS.pdf
+  
+  <center>Deadline for the submission of the abstracts is May 10, 2015.</center>
