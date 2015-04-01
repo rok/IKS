@@ -13,5 +13,4 @@ div(platnica).
   <center>Častni pokrovitelj slavnostne prireditve je Predsednik Republike Slovenije gospod Borut Pahor.</center>
   !../slike/platnica-2015.jpg!
   "Prvo obvestilo":../datoteke/1-obvestilo-MKS.pdf
-  
-  <center>Rok za oddajo povzetkov je 10. maj 2015.</center>
+  Rok za oddajo povzetkov je 10. maj 2015.

@@ -13,5 +13,4 @@ div(platnica).
   <center>Celebration is under the honorary patronage of his Excellency Mr. Borut Pahor, the President of the Republic of Slovenia.</center>
   !../slike/platnica-2015.jpg!
   "First Circular":../datoteke/1st-Circulart-23rd-IKS.pdf
-  
-  <center>Deadline for the submission of the abstracts is May 10, 2015.</center>
+  Deadline for the submission of the abstracts is May 10, 2015.
