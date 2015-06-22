@@ -8,6 +8,8 @@ english-file: programme
 
 h2. Program Outline
 
+"Detailed programe":../datoteke/23rd-international-karstological-school-program.pdf
+
 |_. |_. June 15. |_. June 16. |_. June 17. |_. June 18. |_. June 19. |_. June 20. |
 | | MON | TUE | WED | THU | FRI | SAT |
 | Morning | - Registration

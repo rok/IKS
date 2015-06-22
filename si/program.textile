@@ -8,6 +8,8 @@ english-file: programme
 
 h2. Program
 
+"Natančen urnik":../datoteke/23rd-international-karstological-school-program.pdf
+
 |_. |_. 15. junij |_. 16. junij |_. 17. junij |_. 18. junij |_. 19. junij |_. 20. junij |
 | | PON | TOR | SRE | ČET | PET | SOB |
 | Dop. | - Prijava

@@ -1,2 +1,3 @@
-pygments: true
+pygments: false 
+hightlights: rouge
 exclude: ['create.rb', 'README', 'Rakefile']

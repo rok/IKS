@@ -9,6 +9,8 @@ english-file: archive
 h2. Arhiv preteklih krasoslovnih šol
 
 <div id="arhiv">
+* **2015 - Jame - Raziskave in študije**
+<a href="../datoteke/IKS-23-Guide-book-2015.pdf">Vodnik, program in povzetki (36,6 MB)</a>
 * **2014 - Kras in mikroorganizmi**
 <a href="../datoteke/GuideBook_2014.pdf">Vodnik, program in povzetki (6,2 MB)</a>
 * **2013 - Hipogena speleogeneza (med teorijo in resničnostjo…)**

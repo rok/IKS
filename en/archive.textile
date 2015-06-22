@@ -9,6 +9,8 @@ english-file: archive
 h2. Archive of the past karstological schools
 
 <div id="arhiv">
+* **2015 - Caves - Exploration and Studies**
+<a href="../datoteke/IKS-23-Guide-book-2015.pdf">Program, guide book and abstracts (36,6 MB)</a>
 * **2014 - Karst and microorganisms**
 <a href="../datoteke/GuideBook_2014.pdf">Program, guide book and abstracts (6,2 MB)</a>
 * **2013 - Hypogene speleogenesis (between theory and reality…)**
